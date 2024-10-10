@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 2
+-->
+<report tag="additional_service" version="2">
+    <section index="0" name="Wood-Destroying Organisms Inspection" number="1">
+        <subsection index="0" name="Visible Findings" number="1">
+            <option name="Signs Visible" number="1">
+                <value number="1" type="0">No visible signs of WDO(s) (live, evidence or damage) observed</value>
+                <value number="2" type="0">Visible evidence of WDO(s) was observed as follows</value>
+            </option>
+            <option name="Live WDO(s)" number="2">
+                <value number="1" type="3"/>
+            </option>
+            <option name="Evidence of WDO(s)" number="3">
+                <value button="1006" number="1" type="2"/>
+            </option>
+            <option name="Damage caused by WDO(s)" number="4">
+                <value button="1007" number="1" type="2"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Obstructions and Inaccessible Areas" number="2">
+            <option name="Attic" number="1">
+                <value number="1" type="0">Obstructed/Inaccessible</value>
+                <value number="2" type="3">Specific Areas</value>
+                <value button="1008" number="3" type="2">Reason</value>
+            </option>
+            <option name="Interior" number="2">
+                <value number="1" type="0">Obstructed/Inaccessible</value>
+                <value number="2" type="3">Specific Areas</value>
+                <value button="1009" number="3" type="2">Reason</value>
+            </option>
+            <option name="Exterior" number="3">
+                <value number="1" type="0">Obstructed/Inaccessible</value>
+                <value number="2" type="3">Specific Areas</value>
+                <value button="1010" number="3" type="2">Reason</value>
+            </option>
+            <option name="Crawlspace" number="4">
+                <value number="1" type="0">Obstructed/Inaccessible</value>
+                <value number="2" type="3">Specific Areas</value>
+                <value button="1011" number="3" type="2">Reason</value>
+            </option>
+            <option name="Other" number="5">
+                <value number="1" type="0">Obstructed/Inaccessible</value>
+                <value number="2" type="3">Specific Areas</value>
+                <value button="1012" number="3" type="2">Reason</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Notice of Inspection and Treatment" number="3">
+            <option name="Evidence of previous treatment observed" number="1">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="6">If Yes, list evidence of previous treatment</value>
+            </option>
+            <option name="Location of Inspection Notice" number="2">
+                <value number="1" type="3"/>
+            </option>
+            <option name="Structure treated at time of inspection" number="3">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="6">If Yes, Common name of organism treated</value>
+            </option>
+            <option name="Name of Pesticide Used" number="4">
+                <value number="1" type="3"/>
+            </option>
+            <option name="Terms and Conditions of Treatment" number="5">
+                <value number="1" type="3"/>
+            </option>
+            <option name="Method of Treatment" number="6">
+                <value number="1" type="0">Whole structure</value>
+                <value number="2" type="0">Spot Treatment</value>
+                <value number="3" type="3">Location(s)</value>
+            </option>
+            <option name="Treatment Notice Location" number="7">
+                <value number="1" type="3"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Comments and Financial Disclosure" number="4">
+            <option name="Comments" number="1">
+                <value button="1013" number="1" type="2"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Additional Info" number="5">
+            <option name="" number="1">
+                <value number="1" type="3">Business License Number</value>
+                <value number="2" type="3">Inspector's ID Card No.</value>
+                <value number="3" type="3">Structure(s) on Property Inspected</value>
+                <value number="4" type="3">Report Sent to Requester and to</value>
+            </option>
+        </subsection>
+    </section>
+</report>

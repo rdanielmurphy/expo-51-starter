@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 1
+-->
+<report tag="texas" version="2">
+    <section name="I. STRUCTURAL SYSTEMS" number="4" index="0">
+        <subsection name="A. Foundations" number="1" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="386">Type of Foundations(s):</value>
+                <value type="2" number="3" button="403">The Foundation is:</value>
+                <value type="2" number="4" button="404">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="B. Grading and Drainage" number="2" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="405">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="C. Roof Covering Materials" number="3" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="387">Types of Roof Covering:</value>
+                <value type="2" number="3" button="388">Viewed From:</value>
+                <value type="2" number="4" button="406">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="D. Roof Structures and Attics" number="4" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="389">Viewed From:</value>
+                <value type="2" number="3" button="390">Approximate Average Depth of Insulation:</value>
+                <value type="2" number="4" button="407">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="E. Walls (Interior and Exterior)" number="5" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="408">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="F. Ceilings and Floors" number="6" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="409">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="G. Doors (Interior and Exterior)" number="7" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="410">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="H. Windows" number="8" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="411">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="I. Stairways (Interior and Exterior)" number="9" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="414">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="J. Fireplaces and Chimneys" number="10" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="412">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="K. Porches, Balconies, Decks, and Carports" number="11" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="413">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="L. Other" number="12" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <!--OPP-13568-->
+                <!-- <value type="6" number="2">Comments:</value>-->
+                <value type="2" number="2" button="-1">Comments:</value>
+            </option>
+        </subsection>
+    </section>
+    <section name="II. ELECTRICAL SYSTEMS" number="5" index="0">
+        <subsection name="A. Service Entrance and Panels" number="1" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="416">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="B. Branch Circuits, Connected Devices, and Fixtures" number="2" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="391">Type of Wiring:</value>
+                <value type="2" number="3" button="417">Comments:</value>
+            </option>
+        </subsection>
+    </section>
+    <section name="III. HEATING, VENTILATION AND AIR CONDITIONING SYSTEMS" number="6" index="0">
+        <subsection name="A. Heating Equipment" number="1" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="392">Type of Systems:</value>
+                <value type="2" number="3" button="393">Energy Sources:</value>
+                <value type="2" number="4" button="418">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="B. Cooling Equipment" number="2" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="394">Type of Systems:</value>
+                <value type="2" number="3" button="419">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="C. Duct Systems, Chases, and Vents" number="3" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="420">Comments:</value>
+            </option>
+        </subsection>
+    </section>
+    <section name="IV. PLUMBING SYSTEM" number="7" index="0">
+        <subsection name="A. Plumbing Supply, Distribution, Systems, and Fixtures" number="1" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="395">Location of water meter:</value>
+                <value type="2" number="3" button="396">Location of main water supply valve:</value>
+                <value type="3" number="4">Static water pressure reading:</value>
+                <value type="2" number="5" button="421">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="B. Drains, Wastes, and Vents" number="2" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="422">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="C. Water Heating Equipment" number="3" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="393">Energy Sources:</value>
+                <value type="2" number="3" button="397">Capacity:</value>
+                <value type="2" number="4" button="423">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="D. Hydro-Massage Therapy Equipment" number="4" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="424">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="E. Other" number="5" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <!--OPP-13568-->
+                <!-- <value type="6" number="2">Comments:</value>-->
+                <value type="2" number="2" button="-1">Comments:</value>
+            </option>
+        </subsection>
+    </section>
+    <section name="V. APPLIANCES" number="8" index="0">
+        <subsection name="A. Dishwashers" number="1" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="425">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="B. Food Waste Disposers" number="2" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="426">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="C. Range Hood and Exhaust Systems" number="3" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="427">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="D. Ranges, Cooktops, and Ovens" number="4" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="428">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="E. Microwave Ovens" number="5" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="429">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="F. Mechanical Exhaust Vents and Bathroom Heaters" number="6" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <!-- OPP-13551
+                <value type="6" number="2">Comments:</value>-->
+                <value type="2" number="2" button="431">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="G. Garage Door Operators" number="7" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="433">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="H. Dryer Exhaust Systems" number="8" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="435">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="I. Other" number="9" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <!--OPP-13568-->
+                <!-- <value type="6" number="2">Comments:</value>-->
+                <value type="2" number="2" button="-1">Comments:</value>
+            </option>
+        </subsection>
+    </section>
+    <section name="VI. OPTIONAL SYSTEMS" number="9" index="0">
+        <subsection name="A. Landscape Irrigation (Sprinkler) Systems" number="1" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="438">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="B. Swimming Pools, Spas, Hot Tubs, and Equipment" number="2" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="398">Type of Construction:</value>
+                <value type="2" number="3" button="439">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="C. Outbuildings" number="3" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="440">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="D. Private Water Wells (A coliform analysis is recommended.)" number="4" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="400">Type of Pump:</value>
+                <value type="2" number="3" button="401">Type of Storage Equipment:</value>
+                <value type="2" number="4" button="443">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="E. Private Sewage Disposal (Septic) Systems" number="5" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <value type="2" number="2" button="399">Type of System:</value>
+                <value type="2" number="3" button="400">Location of Drain Field:</value>
+                <value type="2" number="4" button="444">Comments:</value>
+            </option>
+        </subsection>
+        <subsection name="F. Other:" number="6" index="0">
+            <option name="" number="1">
+                <value type="7" number="1"/>
+                <!--OPP-13568-->
+                <!-- <value type="6" number="2">Comments:</value>-->
+                <value type="2" number="2" button="-1">Comments:</value>
+            </option>
+        </subsection>
+    </section>
+</report>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 2
+-->
+<report tag="additional_service" version="2">
+    <section index="0" name="Radon Test" number="1">
+        <subsection index="0" name="Radon Test" number="1">
+            <option name="Test Date" number="1">
+                <value number="1" type="3">Start Date</value>
+                <value number="2" type="3">End Date</value>
+            </option>
+            <option name="Device #1" number="2">
+                <value number="1" type="3">Device/Canister Identifier</value>
+                <value number="2" type="3">Serial Number</value>
+                <value number="3" type="3">Model</value>
+                <value number="4" type="3">Test Number</value>
+                <value number="5" type="3">Start Time</value>
+                <value number="6" type="3">End Time</value>
+                <value number="7" type="3">Analysis Date</value>
+                <value number="8" type="3">Result (in pCi/L)</value>
+            </option>
+            <option name="Device #1 Location" number="3">
+                <value number="1" type="0">Basement</value>
+                <value number="2" type="0">First Floor</value>
+                <value number="3" type="1">Other</value>
+            </option>
+            <option name="Device #2" number="4">
+                <value number="1" type="3">Device/Canister Identifier</value>
+                <value number="2" type="3">Serial Number</value>
+                <value number="3" type="3">Model</value>
+                <value number="4" type="3">Test Number</value>
+                <value number="5" type="3">Start Time</value>
+                <value number="6" type="3">End Time</value>
+                <value number="7" type="3">Analysis Date</value>
+                <value number="8" type="3">Result (in pCi/L)</value>
+            </option>
+            <option name="Device #2 Location" number="5">
+                <value number="1" type="0">Basement</value>
+                <value number="2" type="0">First Floor</value>
+                <value number="3" type="1">Other</value>
+            </option>
+            <option name="Testing Lab" number="6">
+                <value number="1" type="0">N/A - Using Continuous Radon Monitoring System</value>
+                <value number="2" type="1">Name of testing lab</value>
+            </option>
+        </subsection>
+    </section>
+</report>

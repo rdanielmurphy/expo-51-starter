@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 2
+-->
+<report tag="additional_service" version="2">
+    <section index="0" name="Wind Mitigation" number="1">
+        <subsection index="0" name="Owner Info" number="1">
+            <option name="Contact Info" number="1">
+                <value button="0" number="1" type="1">Owner Name</value>
+                <value button="0" number="2" type="1">Contact Person</value>
+                <value button="0" number="3" type="1">Home Phone</value>
+                <value button="0" number="4" type="1">Work Phone</value>
+                <value button="0" number="5" type="1">Cell Phone</value>
+                <value button="0" number="6" type="1">Email</value>
+            </option>
+            <option name="House Info" number="2">
+                <value button="0" number="1" type="1">Insurance Company</value>
+                <value button="0" number="2" type="1">Year Of Home</value>
+                <value button="0" number="3" type="1"># of Stories</value>
+                <value button="0" number="4" type="1">Policy #</value>
+                <value button="0" number="5" type="1">County</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Building Code" number="2">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">Built in compliance with the FBC</value>
+                <value button="0" number="2" type="1">Year Built</value>
+                <value button="0" number="3" type="1">Building Permit Application Date</value>
+            </option>
+            <option name="Option B" number="2">
+                <value button="0" number="1" type="0">For the HVHZ Only</value>
+                <value button="0" number="2" type="1">Year Built</value>
+                <value button="0" number="3" type="1">Building Permit Application Date</value>
+            </option>
+            <option name="Option C" number="3">
+                <value button="0" number="1" type="0">Unknown or does not meet the requirements of Answer "A" or "B"</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Roof Covering" number="3">
+            <option name="Option 1" number="1">
+                <value button="0" number="1" type="0">Asphalt/Fiberglass Shingle</value>
+                <value button="0" number="2" type="1">Permit Application Date</value>
+                <value button="0" number="3" type="1">FBC or MDC Product Approval #</value>
+                <value button="0" number="4" type="1">Year of Original Installation or Replacement</value>
+                <value button="0" number="5" type="0">No Information Provided for Compliance</value>
+            </option>
+            <option name="Option 2" number="2">
+                <value button="0" number="1" type="0">Concrete/Clay Tile</value>
+                <value button="0" number="2" type="1">Permit Application Date</value>
+                <value button="0" number="3" type="1">FBC or MDC Product Approval #</value>
+                <value button="0" number="4" type="1">Year of Original Installation or Replacement</value>
+                <value button="0" number="5" type="0">No Information Provided for Compliance</value>
+            </option>
+            <option name="Option 3" number="3">
+                <value button="0" number="1" type="0">Metal</value>
+                <value button="0" number="2" type="1">Permit Application Date</value>
+                <value button="0" number="3" type="1">FBC or MDC Product Approval #</value>
+                <value button="0" number="4" type="1">Year of Original Installation or Replacement</value>
+                <value button="0" number="5" type="0">No Information Provided for Compliance</value>
+            </option>
+            <option name="Option 4" number="4">
+                <value button="0" number="1" type="0">Built Up</value>
+                <value button="0" number="2" type="1">Permit Application Date</value>
+                <value button="0" number="3" type="1">FBC or MDC Product Approval #</value>
+                <value button="0" number="4" type="1">Year of Original Installation or Replacement</value>
+                <value button="0" number="5" type="0">No Information Provided for Compliance</value>
+            </option>
+            <option name="Option 5" number="5">
+                <value button="0" number="1" type="0">Membrane</value>
+                <value button="0" number="2" type="1">Permit Application Date</value>
+                <value button="0" number="3" type="1">FBC or MDC Product Approval #</value>
+                <value button="0" number="4" type="1">Year of Original Installation or Replacement</value>
+                <value button="0" number="5" type="0">No Information Provided for Compliance</value>
+            </option>
+            <option name="Option 6" number="6">
+                <value button="0" number="1" type="1">Other</value>
+                <value button="0" number="2" type="1">Permit Application Date</value>
+                <value button="0" number="3" type="1">FBC or MDC Product Approval #</value>
+                <value button="0" number="4" type="1">Year of Original Installation or Replacement</value>
+                <value button="0" number="5" type="0">No Information Provided for Compliance</value>
+            </option>
+            <option name="Option A" number="7">
+                <value button="0" number="1" type="0">All roof coverings listed above meet the FBC with a FBC Miami-Dade Product Approval listing current at the time of installation OR have a roofing permit application date on or after 3/1/02 OR the roof is original and built in 2004 or later.</value>
+            </option>
+            <option name="Option B" number="8">
+                <value button="0" number="1" type="0">All roof coverings have a Miami-Dade Product Approval listing current at time of installation OR (for the HVHZ only) a roofing permit application after 9/1/1994 and before 3/1/2002 OR the roof is original and built in 1997 or later.</value>
+            </option>
+            <option name="Option C" number="9">
+                <value button="0" number="1" type="0">One or more roof coverings do not mee the requirements of Answer "A" or "B".</value>
+            </option>
+            <option name="Option D" number="10">
+                <value button="0" number="1" type="0">No roof coverings meet the requirements of Answer "A" or "B".</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Roof Deck Attachment" number="4">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">Plywood/Oriented strand board (OSB) roof sheathing attached to the roof truss/rafter (spaced a maximum of 24 inches o.c.) by staples or 6d nails spaced at 6 inches along the edge and 12 inches in the field. -OR- Batten decking supporting wood shakes or wood shingles. -OR- Any system of screws, nails, adhesives, other deck fastening system or truss/rafter spacing that has an equivalent mean uplift less than that required for Options B or C below.</value>
+            </option>
+            <option name="Option B" number="2">
+                <value button="0" number="1" type="0">Plywood/OSB roof sheathing with a minimum thickness of 7/16 inch attached to the roof truss/rafter (spaced a maximum of 24 inches o.c.) by 8d common nails spaced a maximum of 12 inches in the field.-OR- Any system of screws, nails, adhesives, other deck fastening system or truss/rafter spacing that is shown to have an equivalent or greater resistance than 8d nails spaced a maximum of 12 inches in the field or has a mean uplift resistance of at least 103 psf.</value>
+            </option>
+            <option name="Option C" number="3">
+                <value button="0" number="1" type="0">Plywood/OSB roof sheathing with a minimum thickness of 7/16 inch attached to the roof truss/rafter (spaced a maximum of 24 inches o.c.) by 8d common nails spaced a maximum of 6 inches in the field. -OR- Dimensional lumber/Tongue &amp; Groove decking with a minimum of 2 nails per board (or 1 nail per board if each board is equal to or less than 6 inches in width). -OR Any system of screws, nails, adhesives, other deck fastening system or truss/rafter spacing that is shown to have an equivalent or greater resistance than 8d common nails spaced a maximum of 6 inches in the field or has a mean uplift resistance of at least 182 psf.</value>
+            </option>
+            <option name="Option D" number="4">
+                <value button="0" number="1" type="0">Reinforced Concrete Roof Deck.</value>
+            </option>
+            <option name="Option E" number="5">
+                <value button="0" number="1" type="1">Other</value>
+            </option>
+            <option name="Option F" number="6">
+                <value button="0" number="1" type="0">Unknown or unidentified.</value>
+            </option>
+            <option name="Option G" number="7">
+                <value button="0" number="1" type="0">No attic access.</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Roof to Wall Attachment" number="5">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">Toe Nails</value>
+                <value button="0" number="2" type="0">Truss/rafter anchored to top plate of wall using nails driven at an angle through the truss/rafter and attached to the top plate of the wall</value>
+                <value button="0" number="3" type="0">Metal connectors that do not meet the minimal conditions or requirements of B, C, or D</value>
+            </option>
+            <option name="Minimal conditions to qualify for categories B, C, or D. All visible connectors are" number="2">
+                <value button="0" number="1" type="0">Secured to truss/rafter with a minimum of three (3) nails.</value>
+                <value button="0" number="2" type="0">Attached to the wall top plate of the wall framing, or embedded in the bond beam, with less than a 1/2 inch gap from the blocking or truss/rafter and blocked no more than 1.5 inches of the truss/rafter, and free of visible severe corrosion.</value>
+            </option>
+            <option name="Option B" number="3">
+                <value button="0" number="1" type="0">Clips</value>
+                <value button="0" number="2" type="0">Metal connectors that do not wrap over the top of the truss/rafter</value>
+                <value button="0" number="3" type="0">Metal connectors with a minimum of 1 strap that wraps over the top of the truss/rafter and does not meet the nail position requirements of C or D, but is secured with a minimum of 3 nails.</value>
+            </option>
+            <option name="Option C" number="4">
+                <value button="0" number="1" type="0">Single Wraps</value>
+                <value button="0" number="2" type="0">Metal connectors consisting of a single strap that wraps over the top of the truss/rafter and is secured with a minimum of 2 nails on the front side and a minimum of 1 nail on the opposing side.</value>
+            </option>
+            <option name="Option D" number="5">
+                <value button="0" number="1" type="0">Double Wraps</value>
+                <value button="0" number="2" type="0">Metal Connectors consisting of 2 separate straps that are attached to the wall frame, or embedded in the bond beam, on either side of the truss/rafter where each strap wraps over the top of the truss/rafter and is secured with a minimum of 2 nails on the front side, and a minimum of 1 nail on the opposing side</value>
+                <value button="0" number="3" type="0">Metal connectors consisting of a single strap that wraps over the top of the truss/rafter, is secured to the wall on both sides, and is secured to the top plate with a minimum of three nails on each side</value>
+            </option>
+            <option name="Option E" number="6">
+                <value button="0" number="1" type="0">Structural</value>
+                <value button="0" number="2" type="0">Anchor bolts structurally connected or reinforced concrete roof</value>
+            </option>
+            <option name="Option F" number="7">
+                <value button="0" number="1" type="1">Other</value>
+            </option>
+            <option name="Option G" number="8">
+                <value button="0" number="1" type="0">Unknown or unidentified</value>
+            </option>
+            <option name="Option H" number="9">
+                <value button="0" number="1" type="0">No attic access</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Roof Geometry" number="6">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">Hip Roof</value>
+                <value button="0" number="2" type="1">Total length of non-hip features</value>
+                <value button="0" number="3" type="1">Total roof system perimeter</value>
+            </option>
+            <option name="Option B" number="2">
+                <value button="0" number="1" type="0">Flat Roof</value>
+                <value button="0" number="2" type="1">Roof area with slope less than 2:12</value>
+                <value button="0" number="3" type="1">Total roof area</value>
+            </option>
+            <option name="Option C" number="3">
+                <value button="0" number="1" type="0">Other Roof</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Secondary Water Resistance (SWR)" number="7">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">SWR (also called Sealed Roof Deck) Self-adhering polymer modified-bitumen roofing underlayment applied directly to the sheathing or foam adhesive SWR barrier (not foamed-on insulation) applied as a supplemental means to protect the dwelling from water intrusion in the event of roof covering loss.</value>
+            </option>
+            <option name="Option B" number="2">
+                <value button="0" number="1" type="0">No SWR.</value>
+            </option>
+            <option name="Option C" number="3">
+                <value button="0" number="1" type="0">Unknown or undetermined</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Opening Protection Level Chart (Check all that Apply)" number="8">
+            <option name="N/A - Not Applicable, there are no openings of this type on the structure" number="1">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="A - Verified cyclic pressure &amp; large missile (9lb for windows doors/4.5 lb for skylights)" number="2">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="B - Verified cyclic pressure &amp; large missile (4-8 lb for windows doors/2 lb for skylights)" number="3">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="C - Verified plywood/OSB meeting Table 1609.1.2 of the FBC 2007" number="4">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="D - Verified Non-Glazed Entry or Garage doors indicating compliance with ASTM E 330, ANSI/DASMA 108, or PA/TAS 202 for wind pressure resistance" number="5">
+                <value button="0" number="1" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="N - Opening Protection products that appear to be A or B but are not verified" number="6">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="N - Other protective coverings that cannot be identified as A, B, or C" number="7">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+            <option name="X - No Windborne Debris Protection" number="8">
+                <value button="0" number="1" type="0">Windows or Entry Doors (Glazed)</value>
+                <value button="0" number="2" type="0">Garage Doors (Glazed)</value>
+                <value button="0" number="3" type="0">Skylights</value>
+                <value button="0" number="4" type="0">Glass Block</value>
+                <value button="0" number="5" type="0">Entry Doors (Non-Glazed)</value>
+                <value button="0" number="6" type="0">Garage Doors (Non-Glazed)</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Opening Protection" number="9">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">Exterior Openings Cyclic Pressure and 9-lb Large Missile (4.5 lb for skylights only)</value>
+                <value button="0" number="2" type="0">A.1 All Non-Glazed openings classified as A in the table above, or no Non-Glazed openings exist</value>
+                <value button="0" number="3" type="0">A.2 One or More Non-Glazed openings classified as Level D in the table above, and no Non-Glazed openings classified as Level B, C, N, or X in the table above</value>
+                <value button="0" number="4" type="0">A.3 One or More Non-Glazed Openings is classified as Level B, C, N, or X in the table above</value>
+            </option>
+            <option name="Option B" number="2">
+                <value button="0" number="1" type="0">Exterior Opening Protection- Cyclic Pressure and 4 to 8-lb Large Missile (2-4.5 lb for skylights only)</value>
+                <value button="0" number="2" type="0">B.1 All Non-Glazed openings classified as A or B in the table above, or no Non-Glazed openings exist</value>
+                <value button="0" number="3" type="0">B.2 One or More Non-Glazed openings classified as Level D in the table above, and no Non-Glazed openings classified as Level C, N, or X in the table above</value>
+                <value button="0" number="4" type="0">B.3 One or More Non-Glazed openings is classified as Level C, N, or X in the table above</value>
+            </option>
+            <option name="Option C" number="3">
+                <value button="0" number="1" type="0">Exterior Opening Protection- Wood Structural Panels meeting FBC 2007</value>
+                <value button="0" number="2" type="0">C.1 All Non-Glazed openings classified as A, B, or C in the table above, or no Non-Glazed openings exist</value>
+                <value button="0" number="3" type="0">C.2 One or More Non-Glazed openings classified as Level D in the table above, and no Non-Glazed openings classified as Level N or X in the table above</value>
+                <value button="0" number="4" type="0">C.3 One or More Non-Glazed openings is classified as Level N or X in the table above</value>
+            </option>
+            <option name="Option N" number="4">
+                <value button="0" number="1" type="0">Exterior Opening Protection (unverified shutter systems with no documentation)</value>
+                <value button="0" number="2" type="0">N.1 All Non-Glazed openings classified as Level A, B, C, or N in the table above, or no Non-Glazed openings exist</value>
+                <value button="0" number="3" type="0">N.2 One or More Non-Glazed openings classified as Level D in the table above, and no Non-Glazed openings classified as Level X in the table above</value>
+                <value button="0" number="4" type="0">N.3 One or More Non-Glazed openings is classified as Level X in the table above</value>
+            </option>
+            <option name="Option X" number="5">
+                <value button="0" number="1" type="0">None or Some Glazed Openings</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Qualified Inspector – I hold an active license as a: (check one)" number="10">
+            <option name="Option A" number="1">
+                <value button="0" number="1" type="0">Home inspector licensed under Section 468.8314, Florida Statutes who has completed the statutory number of hours of hurricane mitigation training approved by the Construction Industry Licensing Board and completion of a proficiency exam.</value>
+            </option>
+            <option name="Option B" number="2">
+                <value button="0" number="1" type="0">Building code inspector certified under Section 468.607, Florida Statutes.</value>
+            </option>
+            <option name="Option C" number="3">
+                <value button="0" number="1" type="0">General, building or residential contractor licensed under Section 489.111, Florida Statutes.</value>
+            </option>
+            <option name="Option D" number="4">
+                <value button="0" number="1" type="0">Professional engineer licensed under Section 471.015, Florida Statutes.</value>
+            </option>
+            <option name="Option E" number="5">
+                <value button="0" number="1" type="0">Professional architect licensed under Section 481.213, Florida Statutes.</value>
+            </option>
+            <option name="Option F" number="6">
+                <value button="0" number="1" type="0">Any other individual or entity recognized by the insurer as possessing the necessary qualifications to properly complete a uniform mitigation verification form pursuant to Section 627.711(2), Florida Statutes.</value>
+            </option>
+            <option name="Inspector Initials" number="7">
+                <value button="0" number="1" type="1">Enter Initials</value>
+            </option>
+        </subsection>
+    </section>
+</report>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 2
+-->
+<report tag="additional_service" version="2">
+    <section index="0" name="Pool/Spa" number="1" tag="pool">
+        <subsection index="0" name="Area" number="1">
+            <option name="" number="1">
+                <value isna="1" number="1" type="0">N/A</value>
+            </option>
+            <option name="Area around pool/spa" number="2">
+                <value number="1" type="0">Concrete</value>
+                <value number="2" type="0">Kool - Decking</value>
+                <value number="3" type="0">Flagstone</value>
+                <value number="4" type="1">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Marginal</value>
+                <value number="3" type="0">Poor</value>
+                <value number="4" type="0">Typical Cracking</value>
+            </option>
+            <option name="Pool/Spa fencing" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="1">Min Height(ft)</value>
+                <value number="4" type="5" options="Yes;No">Gate Self-closing/latching</value>
+            </option>
+            <option name="Diving board platform" number="5">
+                <value number="1" type="0">N/A</value>
+                <value number="2" type="0">Satisfactory</value>
+                <value number="3" type="0">Marginal</value>
+                <value number="4" type="0">Poor</value>
+            </option>
+            <option name="Comments" number="7">
+                <value number="1" type="3" button="1015"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Liner(s)" number="2">
+            <option name="Liner" number="1">
+                <value number="1" type="0">Fiberglass/Acrylic</value>
+                <value number="2" type="0">Plaster/Marcite</value>
+                <value number="3" type="0">Exposed Aggregate/Pebble Tec</value>
+                <value number="4" type="0">Vinyl</value>
+                <value number="5" type="1">Other</value>
+            </option>
+            <option name="Water Clarity" number="2">
+                <value number="1" type="0">Clear</value>
+                <value number="2" type="0">Cloudy</value>
+                <value number="3" type="0">Opaque</value>
+                <value number="4" type="0">Not Visible</value>
+                <value number="5" type="0">Pool closed for winter-not inspected</value>
+            </option>
+            <option name="Condition" number="3">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Marginal</value>
+                <value number="3" type="0">Poor</value>
+                <value number="4" type="5" options="Yes;No;Needs repair">Visible cracks/chips/stains</value>
+            </option>
+            <option name="Comments" number="4">
+                <value number="1" type="3" button="1016"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Heater" number="4">
+            <option name="N/A" number="1">
+                <value isna="1" number="1" type="0">N/A</value>
+            </option>
+            <option name="Energy Source" number="2">
+                <value number="1" type="0">Gas</value>
+                <value number="2" type="0">Solar</value>
+                <value number="3" type="0">Heat Pump</value>
+                <value number="4" type="0">Electric Element</value>
+            </option>
+            <option name="Pilot lit" number="3">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Gas On" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Operated" number="5">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Operation Satisfactory" number="6">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Comments" number="7">
+                <value number="1" type="3" button="1017"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Filter(s) and Cleaning Systems" number="6">
+            <option name="Filter Type" number="1">
+                <value number="1" type="0">Sand</value>
+                <value number="2" type="0">Cartridge</value>
+                <value number="3" type="0">Diatomaceous Earth</value>
+                <value number="4" type="1">Other</value>
+            </option>
+            <option name="Type" number="2">
+                <value number="1" type="0">Pop-up heads</value>
+                <value number="2" type="0">Pool vac</value>
+                <value number="3" type="0">Whips</value>
+                <value number="4" type="1">Other</value>
+            </option>
+            <option name="Operated" number="3">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Operation Satisfactory" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Self-fill Mechanism" number="5">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="Anti-Siphon valve" number="6">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Leaks observed" number="7">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Spa Blower" number="8">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operable</value>
+            </option>
+            <option name="Recommendations" number="9">
+                <value number="1" type="0">Recommend pool technician repair/evaluate/service</value>
+            </option>
+            <option name="Comments" number="10">
+                <value number="1" type="3" button="1018"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Electrical" number="7">
+            <option name="Pool/Spa light(s)" number="1">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="G.F.C.I. Present" number="2">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">G.F.C.I Recommended</value>
+                <value number="4" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="Electrical equipment bonded" number="5">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">Safety Hazard</value>
+            </option>
+            <option name="Time clock" number="6">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="Interior cover plate" number="8">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Comments" number="9">
+                <value number="1" type="3" button="1019"/>
+            </option>
+        </subsection>
+    </section>
+</report>

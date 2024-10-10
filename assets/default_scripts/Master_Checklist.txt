@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 2
+-->
+<report tag="checklist" version="2">
+    <section name="Grounds" number="4" index="0">
+        <subsection name="Service Walks" number="1" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">Not Visible</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Flagstone</value>
+                <value type="0" number="3">Gravel</value>
+                <value type="0" number="4">Brick</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Trip hazard</value>
+                <value type="0" number="5">Typical cracks</value>
+                <value type="0" number="6">Pitched towards home</value>
+                <value type="0" number="7">Settling cracks</value>
+                <value type="0" number="8">Public sidewalk needs repair</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="20"/>
+            </option>
+        </subsection>
+        <subsection name="Driveway/Parking" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">Not Visible</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Asphalt</value>
+                <value type="0" number="3">Gravel/Dirt</value>
+                <value type="0" number="4">Brick</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Settling Cracks</value>
+                <value type="0" number="5">Typical cracks</value>
+                <value type="0" number="6">Pitched towards home</value>
+                <value type="0" number="7">Trip hazard</value>
+                <value type="0" number="8">Fill cracks and seal</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="21"/>
+            </option>
+        </subsection>
+        <subsection name="Porch" number="3" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Railing/Balusters recommended</value>
+            </option>
+            <option name="Support Pier" number="3">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Wood</value>
+                <value type="1" number="3">Other</value>
+            </option>
+            <option name="Floor" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Safety Hazard</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="22"/>
+            </option>
+        </subsection>
+        <subsection name="Stoops/Steps" number="4" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Wood</value>
+                <value type="1" number="3">Other</value>
+                <value type="0" number="4">Railing/Balusters recommended</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Safety Hazard</value>
+                <value type="0" number="5">Uneven risers</value>
+                <value type="0" number="6">Rotted/Damaged</value>
+                <value type="0" number="7">Cracked</value>
+                <value type="0" number="8">Settled</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="23"/>
+            </option>
+        </subsection>
+        <subsection name="Patio" number="5" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Flagstone</value>
+                <value type="0" number="3">Kool-Deck</value>
+                <value type="0" number="4">Brick</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Settling cracks</value>
+                <value type="0" number="5">Trip hazard</value>
+                <value type="0" number="6">Pitched towards home (see remarks)</value>
+                <value type="0" number="7">Drainage provided</value>
+                <value type="0" number="8">Typical cracks</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="24"/>
+            </option>
+        </subsection>
+        <subsection name="Deck/Balcony" number="6" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">Not Visible</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Metal</value>
+                <value type="0" number="3">Composite</value>
+                <value type="0" number="4">Railing/Balusters recommended</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Wood in contact with soil</value>
+            </option>
+            <option name="Finish" number="4">
+                <value type="0" number="1">Treated</value>
+                <value type="0" number="2">Painted/Stained</value>
+                <value type="1" number="3">Other</value>
+                <value type="0" number="4">Safety Hazard</value>
+                <value type="0" number="5">Improper attachment to house</value>
+                <value type="0" number="6">Railing loose</value>
+                <value type="0" number="7">Not Applicable</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="25"/>
+            </option>
+        </subsection>
+        <subsection name="Deck/Patio/Porch Covers" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Posts/Supports need Repair</value>
+                <value type="0" number="5">Earth to wood contact</value>
+                <value type="0" number="6">Moisture/Insect damage</value>
+            </option>
+            <option name="Recommend" number="3">
+                <value type="0" number="1">Metal Straps/Bolts/Nails/Flashing</value>
+                <value type="0" number="2">Improper attachment to house</value>
+                <value type="0" number="3">None</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="26"/>
+            </option>
+        </subsection>
+        <subsection name="Fence/Wall" number="8" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not evaluated</value>
+                <value type="0" number="2" isna="1">None</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Brick</value>
+                <value type="0" number="2">Block</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Metal</value>
+                <value type="0" number="4">Chain Link</value>
+                <value type="0" number="5">Rusted</value>
+                <value type="0" number="6">Vinyl</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical cracks</value>
+                <value type="0" number="5">Loose Blocks/Caps</value>
+            </option>
+            <option name="Gate" number="4">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Planks missing/damaged</value>
+                <value type="5" number="6" options="Yes;No">Operable</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="27"/>
+            </option>
+        </subsection>
+        <subsection name="Landscaping affecting foundation" number="9" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Negative Grade" number="2">
+                <value type="0" number="1">East</value>
+                <value type="0" number="2">West</value>
+                <value type="0" number="3">North</value>
+                <value type="0" number="4">South</value>
+                <value type="0" number="5">Satisfactory</value>
+                <value type="0" number="6">Recommend additional backfill</value>
+                <value type="0" number="7">Recommend window wells/covers</value>
+                <value type="0" number="8">Trim back trees/shrubberies</value>
+                <value type="0" number="9">Wood in contact with/improper clearance to soil</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="28"/>
+            </option>
+        </subsection>
+        <subsection name="Retaining wall" number="10" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Brick</value>
+                <value type="0" number="2">Concrete</value>
+                <value type="0" number="3">Concrete block</value>
+                <value type="0" number="4">Railroad ties</value>
+                <value type="0" number="5">Timbers</value>
+                <value type="1" number="3">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Safety Hazard</value>
+                <value type="0" number="5">Leaning/cracked/bowed</value>
+                <value type="0" number="6">Drainage holes recommended</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="29"/>
+            </option>
+        </subsection>
+        <subsection name="Hose bibs" number="11" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">No anti-siphon valve</value>
+                <value type="0" number="5">Recommend Anti-siphon valve</value>
+            </option>
+            <option name="Operable" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Not Tested</value>
+                <value type="0" number="4">Not On</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="30"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Roof" number="5" index="0">
+        <subsection name="General" number="1" index="0">
+            <option name="Visibility" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2">All</value>
+                <value type="0" number="3">Partial</value>
+                <value type="1" number="4">Limited By</value>
+                <value type="2" number="5" button="34"/>
+            </option>
+            <option name="Inspected From" number="2">
+                <value type="0" number="1">Roof</value>
+                <value type="0" number="2">Ladder at eaves</value>
+                <value type="0" number="3">Ground</value>
+                <value type="0" number="4">With Binoculars</value>
+                <value type="2" number="5" button="35"/>
+            </option>
+        </subsection>
+        <subsection name="Style of Roof" number="2" index="0">
+            <option name="Type" number="1">
+                <value type="0" number="1">Gable</value>
+                <value type="0" number="2">Hip</value>
+                <value type="0" number="3">Mansard</value>
+                <value type="0" number="4">Shed</value>
+                <value type="0" number="5">Flat</value>
+                <value type="1" number="6">Other</value>
+            </option>
+            <option name="Pitch" number="2">
+                <value type="0" number="1">Low</value>
+                <value type="0" number="2">Medium</value>
+                <value type="0" number="3">Steep</value>
+                <value type="0" number="4">Flat</value>
+            </option>
+            <option name="Roof #1" number="3">
+                <value type="2" number="1" button="31">Type</value>
+                <value type="2" number="2" button="32">Layers</value>
+                <value type="2" number="3" button="33">Age</value>
+                <value type="2" number="4" button="381">Location</value>
+            </option>
+            <option name="Roof #2" number="4">
+                <value type="0" number="1">None</value>
+                <value type="2" number="2" button="31">Type</value>
+                <value type="2" number="3" button="32">Layers</value>
+                <value type="2" number="4" button="33">Age</value>
+                <value type="2" number="5" button="381">Location</value>
+            </option>
+            <option name="Roof #3" number="5">
+                <value type="0" number="1">None</value>
+                <value type="2" number="2" button="31">Type</value>
+                <value type="2" number="3" button="32">Layers</value>
+                <value type="2" number="4" button="33">Age</value>
+                <value type="2" number="5" button="381">Location</value>
+            </option>
+            <option name="Comments" number="6">
+                <value type="2" number="1" button="36"/>
+            </option>
+        </subsection>
+        <subsection name="Ventilation System" number="3" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">N/A</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Soffit</value>
+                <value type="0" number="2">Ridge</value>
+                <value type="0" number="3">Gable</value>
+                <value type="0" number="4">Roof</value>
+                <value type="0" number="5">Turbine</value>
+                <value type="0" number="6">Powered</value>
+                <value type="1" number="7">Other</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="37"/>
+            </option>
+        </subsection>
+        <subsection name="Flashing" number="4" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Galv/Alum</value>
+                <value type="0" number="3">Asphalt</value>
+                <value type="0" number="4">Copper</value>
+                <value type="0" number="5">Foam</value>
+                <value type="0" number="6">Rubber</value>
+                <value type="0" number="7">Lead</value>
+                <value type="1" number="8">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Rusted</value>
+                <value type="0" number="6">Missing</value>
+                <value type="0" number="7">Separated from chimney/roof</value>
+                <value type="0" number="8">Recommend Sealing</value>
+                <value type="1" number="9">Other</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="38"/>
+            </option>
+        </subsection>
+        <subsection name="Valleys" number="5" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Galv/Alum</value>
+                <value type="0" number="3">Asphalt</value>
+                <value type="0" number="4">Lead</value>
+                <value type="0" number="5">Copper</value>
+                <value type="1" number="6">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Holes</value>
+                <value type="0" number="6">Rusted</value>
+                <value type="0" number="7">Recommend Sealing</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="39"/>
+            </option>
+        </subsection>
+        <subsection name="Condition of Roof Coverings" number="6" index="0">
+            <option name="Roof #1" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Curling</value>
+                <value type="0" number="5">Cracking</value>
+                <value type="0" number="6">Ponding</value>
+                <value type="0" number="7">Burn Spots</value>
+                <value type="0" number="8">Broken/Loose Tiles/Shingles</value>
+                <value type="0" number="9">Nail popping</value>
+                <value type="0" number="10">Granules missing</value>
+                <value type="0" number="11">Alligatoring</value>
+                <value type="0" number="12">Blistering</value>
+                <value type="0" number="13">Missing Tabs/Shingles/Tiles</value>
+                <value type="0" number="14">Moss buildup</value>
+                <value type="0" number="15">Exposed felt</value>
+                <value type="0" number="16">Cupping</value>
+                <value type="0" number="17">Incomplete/Improper Nailing</value>
+                <value type="0" number="18">Recommend roofer evaluate</value>
+                <value type="0" number="19">Evidence of Leakage</value>
+            </option>
+            <option name="Roof #2" number="2">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Curling</value>
+                <value type="0" number="6">Cracking</value>
+                <value type="0" number="7">Ponding</value>
+                <value type="0" number="8">Burn Spots</value>
+                <value type="0" number="9">Broken/Loose Tiles/Shingles</value>
+                <value type="0" number="10">Nail popping</value>
+                <value type="0" number="11">Granules missing</value>
+                <value type="0" number="12">Alligatoring</value>
+                <value type="0" number="13">Blistering</value>
+                <value type="0" number="14">Missing Tabs/Shingles/Tiles</value>
+                <value type="0" number="15">Moss buildup</value>
+                <value type="0" number="16">Exposed felt</value>
+                <value type="0" number="17">Cupping</value>
+                <value type="0" number="18">Incomplete/Improper Nailing</value>
+                <value type="0" number="19">Recommend roofer evaluate</value>
+                <value type="0" number="20">Evidence of Leakage</value>
+            </option>
+            <option name="Roof #3" number="3">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Curling</value>
+                <value type="0" number="6">Cracking</value>
+                <value type="0" number="7">Ponding</value>
+                <value type="0" number="8">Burn Spots</value>
+                <value type="0" number="9">Broken/Loose Tiles/Shingles</value>
+                <value type="0" number="10">Nail popping</value>
+                <value type="0" number="11">Granules missing</value>
+                <value type="0" number="12">Alligatoring</value>
+                <value type="0" number="13">Blistering</value>
+                <value type="0" number="14">Missing Tabs/Shingles/Tiles</value>
+                <value type="0" number="15">Moss buildup</value>
+                <value type="0" number="16">Exposed felt</value>
+                <value type="0" number="17">Cupping</value>
+                <value type="0" number="18">Incomplete/Improper Nailing</value>
+                <value type="0" number="19">Recommend roofer evaluate</value>
+                <value type="0" number="20">Evidence of Leakage</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="40"/>
+            </option>
+        </subsection>
+        <subsection name="Skylights" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="0" number="2" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Cracked/Broken</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="41"/>
+            </option>
+        </subsection>
+        <subsection name="Plumbing Vents" number="8" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not Visible</value>
+                <value type="0" number="2" isna="1">Not Present</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="380"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Exterior" number="6" index="0">
+        <subsection name="Chimney(s)" number="1" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Location(s)" number="2">
+                <value type="2" number="2" button="58"/>
+            </option>
+            <option name="Viewed From" number="3">
+                <value type="0" number="1">Roof</value>
+                <value type="0" number="2">Ladder at eaves</value>
+                <value type="0" number="3">Ground (Inspection Limited)</value>
+                <value type="0" number="4">With Binoculars</value>
+            </option>
+            <option name="Rain Cap/Spark Arrestor" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Recommended</value>
+            </option>
+            <option name="Chase" number="5">
+                <value type="0" number="1">Brick</value>
+                <value type="0" number="2">Stone</value>
+                <value type="0" number="3">Metal</value>
+                <value type="0" number="4">Blocks</value>
+                <value type="0" number="5">Framed</value>
+            </option>
+            <option name="Evidence of" number="6">
+                <value type="0" number="1">Holes in metal</value>
+                <value type="0" number="2">Cracked chimney cap</value>
+                <value type="0" number="3">Loose mortar joints</value>
+                <value type="0" number="4">Flaking</value>
+                <value type="0" number="5">Loose brick</value>
+                <value type="0" number="6">Rust</value>
+                <value type="0" number="7">No apparent defects</value>
+            </option>
+            <option name="Flue" number="7">
+                <value type="0" number="1">Tile</value>
+                <value type="0" number="2">Metal</value>
+                <value type="0" number="3">Unlined</value>
+                <value type="0" number="4">Not Visible</value>
+            </option>
+            <option name="Evidence of" number="8">
+                <value type="0" number="1">Scaling</value>
+                <value type="0" number="2">Cracks</value>
+                <value type="0" number="3">Creosote</value>
+                <value type="0" number="4">Not evaluated</value>
+                <value type="0" number="5">Have flue(s) cleaned and re-evaluated</value>
+                <value type="0" number="6">Recommend Cricket/Saddle/Flashing</value>
+                <value type="0" number="7">No apparent defects</value>
+            </option>
+            <option name="Condition" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend Repair</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="42"/>
+            </option>
+        </subsection>
+        <subsection name="Gutters/Scuppers/Eavestrough" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Rusting</value>
+                <value type="0" number="5">Downspouts needed</value>
+                <value type="0" number="6">Recommend repair/replace</value>
+                <value type="0" number="7">Needs to be cleaned</value>
+            </option>
+            <option name="Material" number="3">
+                <value type="0" number="1">Copper</value>
+                <value type="0" number="2">Vinyl/Plastic</value>
+                <value type="0" number="3">Galvanized/Aluminum</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Leaking" number="4">
+                <value type="0" number="1">Corners</value>
+                <value type="0" number="2">Joints</value>
+                <value type="0" number="3">Hole in main run</value>
+                <value type="0" number="4">No apparent leaks</value>
+            </option>
+            <option name="Attachment" number="5">
+                <value type="0" number="1">Loose</value>
+                <value type="0" number="2">Missing spikes</value>
+                <value type="0" number="3">Improperly sloped</value>
+                <value type="0" number="4">Satisfactory</value>
+            </option>
+            <option name="Extension needed" number="6">
+                <value type="0" number="1">North</value>
+                <value type="0" number="2">South</value>
+                <value type="0" number="3">East</value>
+                <value type="0" number="4">West</value>
+                <value type="0" number="5">N/A</value>
+            </option>
+            <option name="Comments" number="7">
+                <value type="2" number="1" button="43"/>
+            </option>
+        </subsection>
+        <subsection name="Siding" number="3" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Stone</value>
+                <value type="0" number="2">Slate</value>
+                <value type="0" number="3">Block/Brick</value>
+                <value type="0" number="4">Fiberboard</value>
+                <value type="0" number="5">Fiber-cement</value>
+                <value type="0" number="6">Stucco</value>
+                <value type="0" number="7">EIFS* Not Inspected</value>
+                <value type="0" number="8">Asphalt</value>
+                <value type="0" number="9">Wood</value>
+                <value type="0" number="10">Metal/Vinyl</value>
+                <value type="1" number="11">Other</value>
+                <value type="0" number="12">Typical cracks</value>
+                <value type="0" number="13">Peeling paint</value>
+                <value type="0" number="14">Monitor</value>
+                <value type="0" number="15">Wood rot</value>
+                <value type="0" number="16">Loose/Missing/Holes</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend repair/painting</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="44"/>
+            </option>
+        </subsection>
+        <subsection name="Trim" number="4" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Fiberboard</value>
+                <value type="0" number="3">Aluminum/Steel</value>
+                <value type="0" number="4">Vinyl</value>
+                <value type="0" number="5">Stucco</value>
+                <value type="0" number="6">Recommend repair/painting</value>
+                <value type="0" number="7">Damaged wood</value>
+                <value type="1" number="8">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="45"/>
+            </option>
+        </subsection>
+        <subsection name="Soffit" number="5" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Fiberboard</value>
+                <value type="0" number="3">Aluminum/Steel</value>
+                <value type="0" number="4">Vinyl</value>
+                <value type="0" number="5">Stucco</value>
+                <value type="0" number="6">Recommend repair/painting</value>
+                <value type="0" number="7">Damaged wood</value>
+                <value type="1" number="8">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="46"/>
+            </option>
+        </subsection>
+        <subsection name="Fascia" number="6" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Fiberboard</value>
+                <value type="0" number="3">Aluminum/Steel</value>
+                <value type="0" number="4">Vinyl</value>
+                <value type="0" number="5">Stucco</value>
+                <value type="0" number="6">Recommend repair/painting</value>
+                <value type="0" number="7">Damaged wood</value>
+                <value type="1" number="8">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="47"/>
+            </option>
+        </subsection>
+        <subsection name="Flashing" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Fiberboard</value>
+                <value type="0" number="3">Aluminum/Steel</value>
+                <value type="0" number="4">Vinyl</value>
+                <value type="0" number="5">Stucco</value>
+                <value type="0" number="6">Recommend repair/painting</value>
+                <value type="0" number="7">Damaged wood</value>
+                <value type="1" number="8">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="48"/>
+            </option>
+        </subsection>
+        <subsection name="Caulking" number="8" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend around windows/doors/masonry ledges/corners/utility penetrations</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="49"/>
+            </option>
+        </subsection>
+        <subsection name="Windows/Screens" number="9" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Wood rot</value>
+                <value type="0" number="5">Recommend repair/painting</value>
+                <value type="0" number="6">Recommend repair/replace damaged screens</value>
+                <value type="0" number="7">Failed/fogged insulated glass</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Metal</value>
+                <value type="0" number="3">Vinyl</value>
+                <value type="0" number="4">Aluminum/Vinyl clad</value>
+            </option>
+            <option name="Screens" number="3">
+                <value type="0" number="1">Torn</value>
+                <value type="0" number="2">Bent</value>
+                <value type="0" number="3">Not installed</value>
+                <value type="0" number="4">Satisfactory</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="50"/>
+            </option>
+        </subsection>
+        <subsection name="Storms Windows" number="10" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">Not installed</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Broken/cracked</value>
+                <value type="0" number="3">Wood rot</value>
+                <value type="0" number="4">Recommend repair/painting</value>
+            </option>
+            <option name="Material" number="3">
+                <value type="0" number="3">Wood</value>
+                <value type="0" number="4">Clad comb.</value>
+                <value type="0" number="5">Wood/Metal comb.</value>
+                <value type="0" number="6">Metal</value>
+            </option>
+            <option name="Putty" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Needed</value>
+                <value type="0" number="3">N/A</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="51"/>
+            </option>
+        </subsection>
+        <subsection name="Slab-On-Grade/Foundation" number="11" index="0">
+            <option name="Foundation Wall" number="1">
+                <value type="0" number="1">Concrete block</value>
+                <value type="0" number="2">Poured concrete</value>
+                <value type="0" number="3">Post-Tensioned concrete</value>
+                <value type="0" number="4">Not Visible</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Monitor</value>
+                <value type="0" number="4">Have Evaluated</value>
+                <value type="0" number="5">Not Evaluated</value>
+            </option>
+            <option name="Concrete Slab" number="3">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not Visible</value>
+                <value type="0" number="3">Satisfactory</value>
+                <value type="0" number="4">Marginal</value>
+                <value type="0" number="5">Monitor</value>
+                <value type="0" number="6">Have Evaluated</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="52"/>
+            </option>
+        </subsection>
+        <subsection name="Service Entry" number="12" index="0">
+            <option name="Location" number="1">
+                <value type="0" number="1">Underground</value>
+                <value type="0" number="2">Overhead</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Weather head/mast needs repair</value>
+                <value type="0" number="5">Overhead wires too low</value>
+            </option>
+            <option name="Exterior receptacles" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="5" number="4" options="Satisfactory;Marginal;Poor">Condition</value>
+            </option>
+            <option name="GFCI present" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Safety Hazard</value>
+                <value type="0" number="5">Reverse polarity</value>
+                <value type="0" number="6">Open ground(s)</value>
+                <value type="0" number="7">Recommend GFCI Receptacles</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="53"/>
+            </option>
+        </subsection>
+        <subsection name="Building(s) Exterior Wall Construction" number="13" index="0">
+            <option name="Type" number="1">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Framed</value>
+                <value type="0" number="3">Masonry</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="54"/>
+            </option>
+        </subsection>
+        <subsection name="Exterior Doors" number="14" index="0">
+            <option name="Main Entrance" number="1">
+                <value type="0" number="1">N/A</value>
+                <value type="5" number="2" options="Satisfactory;Marginal;Poor;Missing;Replace">Weatherstripping</value>
+                <value type="5" number="3" options="Satisfactory;Marginal;Poor">Door condition</value>
+            </option>
+            <option name="Patio" number="2">
+                <value type="0" number="1">N/A</value>
+                <value type="5" number="2" options="Satisfactory;Marginal;Poor;Missing;Replace">Weatherstripping</value>
+                <value type="5" number="3" options="Satisfactory;Marginal;Poor">Door condition</value>
+            </option>
+            <option name="Rear door" number="3">
+                <value type="0" number="1">N/A</value>
+                <value type="5" number="2" options="Satisfactory;Marginal;Poor;Missing;Replace">Weatherstripping</value>
+                <value type="5" number="3" options="Satisfactory;Marginal;Poor">Door condition</value>
+            </option>
+            <option name="Other door" number="4">
+                <value type="0" number="1">N/A</value>
+                <value type="5" number="2" options="Satisfactory;Marginal;Poor;Missing;Replace">Weatherstripping</value>
+                <value type="5" number="3" options="Satisfactory;Marginal;Poor">Door condition</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="55"/>
+            </option>
+        </subsection>
+        <subsection name="Exterior A/C - Heat pump #1" number="15" index="0">
+            <option name="Unit #1" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="2" number="2" button="89">Location</value>
+                <value type="2" number="3" button="64">Brand</value>
+                <value type="2" number="4" button="65">Model #</value>
+                <value type="3" number="5">Serial #</value>
+                <value type="2" number="6" button="33">Approximate Age</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Cabinet/housing rusted</value>
+            </option>
+            <option name="Energy source" number="3">
+                <value type="0" number="1">Electric</value>
+                <value type="0" number="2">Gas</value>
+                <value type="1" number="3">Other</value>
+            </option>
+            <option name="Unit type" number="4">
+                <value type="0" number="1">Air cooled</value>
+                <value type="0" number="2">Water cooled</value>
+                <value type="0" number="3">Geothermal</value>
+                <value type="0" number="4">Heat pump</value>
+            </option>
+            <option name="Outside Disconnect" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="3" number="4">Maximum fuse/breaker rating (amps)</value>
+                <value type="3" number="5">Fuses/Breakers installed (amps)</value>
+                <value type="0" number="6">Improperly sized fuses/breakers</value>
+            </option>
+            <option name="Level" number="6">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Recommend re-level unit</value>
+            </option>
+            <option name="Condenser Fins" number="7">
+                <value type="0" number="1">Damaged</value>
+                <value type="0" number="2">Need cleaning</value>
+                <value type="0" number="3">Damaged base/pad</value>
+                <value type="0" number="4">Damaged Refrigerant Line</value>
+                <value type="0" number="5">Satisfactory</value>
+            </option>
+            <option name="Insulation" number="8">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Replace</value>
+            </option>
+            <option name="Improper Clearance (air flow)" number="9">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="56"/>
+            </option>
+        </subsection>
+        <subsection name="Exterior A/C - Heat pump #2" number="16" index="0">
+            <option name="Unit #2" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="2" number="2" button="89">Location</value>
+                <value type="2" number="3" button="64">Brand</value>
+                <value type="2" number="4" button="65">Model #</value>
+                <value type="3" number="5">Serial #</value>
+                <value type="2" number="6" button="33">Approx. Age</value>
+            </option>
+            <option name="Energy source" number="2">
+                <value type="0" number="1">Electric</value>
+                <value type="0" number="2">Gas</value>
+                <value type="1" number="3">Other</value>
+            </option>
+            <option name="Unit type" number="3">
+                <value type="0" number="1">Air cooled</value>
+                <value type="0" number="2">Water cooled</value>
+                <value type="0" number="3">Geothermal</value>
+                <value type="0" number="4">Heat pump</value>
+            </option>
+            <option name="Outside Disconnect" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="3" number="4">Maximum fuse/breaker rating (amps)</value>
+                <value type="3" number="5">Fuses/Breakers installed (amps)</value>
+                <value type="0" number="6">Improperly sized fuses/breakers</value>
+            </option>
+            <option name="Level" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Recommend re-level unit</value>
+            </option>
+            <option name="Condenser Fins" number="6">
+                <value type="0" number="1">Damaged</value>
+                <value type="0" number="2">Need cleaning</value>
+                <value type="0" number="3">Damaged base/pad</value>
+                <value type="0" number="4">Damaged Refrigerant Line</value>
+                <value type="0" number="5">Satisfactory</value>
+            </option>
+            <option name="Insulation" number="7">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Replace</value>
+            </option>
+            <option name="Condition" number="8">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Cabinet/housing rusted</value>
+            </option>
+            <option name="Improper Clearance (air flow)" number="9">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="56"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Garage/Carport" number="7" index="-1" tag="garages">
+        <subsection name="Type" number="1" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Attached</value>
+                <value type="0" number="2">Detached</value>
+                <value type="0" number="3">1-Car</value>
+                <value type="0" number="4">2-Car</value>
+                <value type="0" number="5">3-Car</value>
+                <value type="0" number="6">4-Car</value>
+                <value type="0" number="6">Carport</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="67"/>
+            </option>
+        </subsection>
+        <subsection name="Automatic Opener" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">N/A</value>
+            </option>
+            <option name="Operation" number="2">
+                <value type="0" number="1">Operable</value>
+                <value type="0" number="2">Inoperable</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="68"/>
+            </option>
+        </subsection>
+        <subsection name="Safety Reverse" number="3" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Operation" number="2">
+                <value type="0" number="1">Operable</value>
+                <value type="0" number="2">Not Operable</value>
+                <value type="0" number="3">Need(s) adjusting</value>
+                <value type="0" number="4">Safety hazard</value>
+                <value type="0" number="5">Photo eyes and pressure reverse tested</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="69"/>
+            </option>
+        </subsection>
+        <subsection name="Roofing" number="4" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Same as house</value>
+                <value type="2" number="2" button="31">Type</value>
+                <value type="3" number="3" button="33">Approx. age</value>
+                <value type="3" number="4" button="32">Approx. layers</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="70"/>
+            </option>
+        </subsection>
+        <subsection name="Gutters/Eavestrough" number="5" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Same as house</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="71"/>
+            </option>
+        </subsection>
+        <subsection name="Siding" number="6" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Same as house</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Metal</value>
+                <value type="0" number="4">Vinyl</value>
+                <value type="0" number="5">Stucco</value>
+                <value type="0" number="6">Masonry</value>
+                <value type="0" number="7">Slate</value>
+                <value type="0" number="8">Fiberboard</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend repair/replace</value>
+                <value type="0" number="5">Recommend painting</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="72"/>
+            </option>
+        </subsection>
+        <subsection name="Trim" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Same as house</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Aluminum</value>
+                <value type="0" number="4">Vinyl</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend repair/replace</value>
+                <value type="0" number="5">Recommend painting</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="72"/>
+            </option>
+        </subsection>
+        <subsection name="Floor" number="8" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Gravel</value>
+                <value type="0" number="3">Asphalt</value>
+                <value type="0" number="4">Dirt</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Typical cracks</value>
+                <value type="0" number="3">Large settling cracks</value>
+                <value type="0" number="4">Recommend evaluation/repair</value>
+                <value type="0" number="5">Safety hazard</value>
+            </option>
+            <option name="Source of Ignition within 18&quot; of the floor" number="3">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="73"/>
+            </option>
+        </subsection>
+        <subsection name="Sill Plates" number="9" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+                <value type="0" number="2" isna="1">Not Visible</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Floor level</value>
+                <value type="0" number="2">Elevated</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Rotted/Damaged</value>
+                <value type="0" number="2">Recommend repair</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="74"/>
+            </option>
+        </subsection>
+        <subsection name="Overhead Door(s)" number="10" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Fiberglass</value>
+                <value type="0" number="3">Masonite</value>
+                <value type="0" number="4">Metal</value>
+                <value type="0" number="5">Recommend repair</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Hardware loose</value>
+                <value type="0" number="5">Safety Cable Recommended</value>
+                <value type="0" number="6">Weatherstripping missing/damaged</value>
+                <value type="0" number="7">Loose/missing</value>
+            </option>
+            <option name="Recommend Priming/Painting Inside &amp; Edges" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="75"/>
+            </option>
+        </subsection>
+        <subsection name="Exterior Service Door" number="11" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Damaged/Rusted</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="76"/>
+            </option>
+        </subsection>
+        <subsection name="Electrical Receptacles" number="12" index="0">
+            <option name="" number="1">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2" isna="1">No</value>
+                <value type="0" number="3" isna="1">Not Visible</value>
+                <value type="5" number="4" options="Yes;No">Operable</value>
+            </option>
+            <option name="Reverse polarity" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Open ground" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Safety Hazard</value>
+            </option>
+            <option name="GFCI Present" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Handyman/extension cord wiring</value>
+                <value type="0" number="5">Recommend GFCI Receptacles</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="77"/>
+            </option>
+        </subsection>
+        <subsection name="Fire Separation Walls &amp; Ceiling" number="13" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="0" number="2">Present</value>
+                <value type="0" number="3">Missing</value>
+                <value type="0" number="4">Recommend repair</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Recommend repair</value>
+                <value type="0" number="3">Holes walls/ceiling</value>
+                <value type="0" number="4">Safety hazard(s)</value>
+            </option>
+            <option name="Moisture Stains Present" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Typical Cracks" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Fire door" number="5">
+                <value type="0" number="1">Not verifiable</value>
+                <value type="0" number="2">Not a fire door</value>
+                <value type="0" number="3">Needs repair</value>
+                <value type="0" number="4">Satisfactory</value>
+            </option>
+            <option name="Self closure" number="6">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Inoperative</value>
+                <value type="0" number="4">Missing</value>
+            </option>
+            <option name="Comments" number="7">
+                <value type="2" number="1" button="78"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Kitchen" number="8" index="0">
+        <subsection name="Countertops" number="1" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Recommend repair/caulking</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="79"/>
+            </option>
+        </subsection>
+        <subsection name="Cabinets" number="2" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Recommend repair/adjustment</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="80"/>
+            </option>
+        </subsection>
+        <subsection name="Plumbing" number="3" index="0">
+            <option name="Faucet Leaks" number="1">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Pipes leak/corroded" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Sink/Faucet" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Corroded</value>
+                <value type="0" number="3">Chipped</value>
+                <value type="0" number="4">Cracked</value>
+                <value type="0" number="5">Recommend repair</value>
+            </option>
+            <option name="Functional drainage" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Functional flow" number="5">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="6">
+                <value type="2" number="1" button="81"/>
+            </option>
+        </subsection>
+        <subsection name="Walls &amp; Ceiling" number="4" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical cracks</value>
+                <value type="0" number="5">Moisture stains</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="82"/>
+            </option>
+        </subsection>
+        <subsection name="Heating/Cooling Source" number="5" index="0">
+            <option name="" number="1">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2" isna="1">No</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="83"/>
+            </option>
+        </subsection>
+        <subsection name="Floor" number="6" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Sloping</value>
+                <value type="0" number="5">Squeaks</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="84"/>
+            </option>
+        </subsection>
+        <subsection name="Appliances" number="7" index="0">
+            <option name="Disposal" number="1">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Oven" number="2">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Range" number="3">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Dishwasher" number="4">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Trash Compactor" number="5">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Exhaust fan" number="6">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Refrigerator" number="7">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Microwave" number="8">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Not tested</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="Other" number="9">
+                <value type="3" number="1"/>
+                <value type="5" number="2" options="Yes;No">Operable</value>
+            </option>
+            <option name="Dishwasher airgap" number="10">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Dishwasher drain line looped" number="11">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Receptacles present" number="12">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="GFCI" number="13">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="5" number="4" options="Yes;No">Recommend GFCI Receptacles</value>
+                <value type="0" number="5">Potential Safety Hazard(s)</value>
+            </option>
+            <option name="Open ground/Reverse polarity:" number="14">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Potential Safety Hazard</value>
+            </option>
+            <option name="Comments" number="15">
+                <value type="2" number="1" button="85"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Laundry Room" number="9" index="0">
+        <subsection name="Laundry" number="1" index="0">
+            <option name="Laundry sink" number="1">
+                <value type="0" number="1">N/A</value>
+            </option>
+            <option name="Faucet leaks" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Pipes leak" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Not Visible</value>
+            </option>
+            <option name="Cross connections" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Potential Safety Hazard</value>
+            </option>
+            <option name="Heat source present" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Room vented" number="6">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Dryer vented" number="7">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Wall</value>
+                <value type="0" number="3">Ceiling</value>
+                <value type="0" number="4">Floor</value>
+                <value type="0" number="5">Not vented</value>
+                <value type="0" number="6">Plastic dryer vent not recommended</value>
+                <value type="0" number="7">Not vented to exterior</value>
+                <value type="0" number="8">Recommend repair</value>
+                <value type="0" number="9">Safety hazard</value>
+            </option>
+            <option name="Electrical" number="8">
+                <value type="5" number="1" options="Yes;No">Open ground/reverse polarity</value>
+                <value type="0" number="2">Safety hazard</value>
+            </option>
+            <option name="GFCI present" number="9">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Recommend GFCI Receptacles</value>
+            </option>
+            <option name="Appliances" number="10">
+                <value type="0" number="1">Washer</value>
+                <value type="0" number="2">Dryer</value>
+                <value type="0" number="3">Water heater</value>
+                <value type="0" number="4">Furnace/Boiler</value>
+            </option>
+            <option name="Washer hook-up lines/valves" number="11">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Leaking</value>
+                <value type="0" number="3">Corroded</value>
+                <value type="0" number="4">Not Visible</value>
+            </option>
+            <option name="Gas shut-off valve" number="12">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+                <value type="0" number="4">Cap Needed</value>
+                <value type="0" number="5">Safety hazard</value>
+                <value type="0" number="6">Not Visible</value>
+            </option>
+            <option name="Comments" number="13">
+                <value type="2" number="1" button="86"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Bathroom" number="10" index="-1" tag="bathrooms">
+        <subsection name="Bath" number="1" index="0">
+            <option name="Location" number="1">
+                <value type="2" number="1" button="88"/>
+            </option>
+            <option name="Sinks" number="2">
+                <value type="5" number="1" options="Yes;No">Faucet leaks</value>
+                <value type="5" number="2" options="Yes;No">Pipes leak</value>
+            </option>
+            <option name="Tubs" number="3">
+                <value type="0" number="1">N/A</value>
+                <value type="5" number="2" options="Yes;No">Faucet leaks</value>
+                <value type="5" number="3" options="Yes;No;Not Visible">Pipes leak</value>
+            </option>
+            <option name="Showers" number="4">
+                <value type="0" number="1">N/A</value>
+                <value type="5" number="2" options="Yes;No">Faucet leaks</value>
+                <value type="5" number="3" options="Yes;No;Not Visible">Pipes leak</value>
+            </option>
+            <option name="Toilet" number="5">
+                <value type="5" number="1" options="Yes;No">Bowl loose</value>
+                <value type="5" number="2" options="Yes;No">Operable</value>
+                <value type="0" number="3">Cracked bowl</value>
+                <value type="0" number="4">Toilet leaks</value>
+            </option>
+            <option name="Whirlpool" number="6">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Not tested</value>
+                <value type="0" number="5">No access door</value>
+                <value type="5" number="6" options="Yes;No">GFCI</value>
+                <value type="0" number="7">GFCI Recommended</value>
+            </option>
+            <option name="Shower/Tub area" number="7">
+                <value type="0" number="1">Ceramic/Plastic</value>
+                <value type="0" number="2">Fiberglass</value>
+                <value type="0" number="3">Masonite</value>
+                <value type="1" number="4">Other</value>
+                <value type="5" number="5" options="Satisfactory;Marginal;Poor;Rotted floors">Condition</value>
+                <value type="5" number="6" options="Yes;No">Caulk/Grouting needed</value>
+                <value type="2" number="7" button="59">Where</value>
+                <value type="0" number="8">N/A</value>
+            </option>
+            <option name="Drainage" number="8">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Water flow" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Moisture stains present" number="10">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Walls</value>
+                <value type="0" number="4">Ceilings</value>
+                <value type="0" number="5">Cabinetry</value>
+            </option>
+            <option name="Doors" number="11">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Window" number="12">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+            </option>
+            <option name="Receptacles present" number="13">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="GFCI" number="14">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Recommend GFCI</value>
+            </option>
+            <option name="Open ground/Reverse polarity" number="15">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Potential Safety Hazard</value>
+            </option>
+            <option name="Heat source present" number="16">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Exhaust fan" number="17">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Noisy</value>
+            </option>
+            <option name="Comments" number="18">
+                <value type="2" number="1" button="87"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Room" number="11" index="-1" tag="bedrooms">
+        <subsection name="Room" number="1" index="0">
+            <option name="Location" number="1">
+                <value type="2" number="1" button="91"/>
+            </option>
+            <option name="Type" number="2">
+                <value type="2" number="1" button="90"/>
+            </option>
+            <option name="Walls &amp; Ceiling" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical cracks</value>
+                <value type="0" number="5">Damage</value>
+            </option>
+            <option name="Moisture stains" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="2" number="3" button="60">Where</value>
+            </option>
+            <option name="Floor" number="5">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Squeaks</value>
+                <value type="0" number="5">Slopes</value>
+                <value type="0" number="6">Tripping hazard</value>
+            </option>
+            <option name="Ceiling fan" number="6">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Recommend repair/replace</value>
+            </option>
+            <option name="Electrical" number="7">
+                <value type="5" number="1" options="Yes;No;Operable">Switches</value>
+                <value type="5" number="2" options="Yes;No;Operable">Receptacles</value>
+                <value type="5" number="3" options="Yes;No">Open ground/Reverse polarity</value>
+                <value type="0" number="4">Safety hazard</value>
+                <value type="0" number="5">Cover plates missing</value>
+            </option>
+            <option name="Heating source present" number="8">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Doors;Walls;Ceilings">Holes</value>
+            </option>
+            <option name="Bedroom Egress restricted" number="9">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+            </option>
+            <option name="Doors" number="10">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Cracked glass</value>
+                <value type="0" number="6">Broken/Missing hardware</value>
+            </option>
+            <option name="Windows" number="11">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Cracked glass</value>
+                <value type="0" number="6">Evidence of leaking insulated glass</value>
+                <value type="0" number="7">Broken/Missing hardware</value>
+            </option>
+            <option name="Comments" number="12">
+                <value type="2" number="1" button="92"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Interior" number="12" index="0">
+        <subsection name="Fireplace" number="1" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Location(s)" number="2">
+                <value type="2" number="1" button="97"/>
+            </option>
+            <option name="Type" number="3">
+                <value type="0" number="1">Gas</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Solid fuel burning stove</value>
+                <value type="0" number="4">Electric</value>
+                <value type="0" number="5">Ventless</value>
+            </option>
+            <option name="Material" number="4">
+                <value type="0" number="1">Masonry</value>
+                <value type="0" number="2">Metal (pre-fabricated)</value>
+                <value type="0" number="3">Metal insert</value>
+                <value type="0" number="4">Cast Iron</value>
+            </option>
+            <option name="Miscellaneous" number="5">
+                <value type="0" number="1">Blower built-in</value>
+                <value type="5" number="2" options="Yes;No">Operable</value>
+                <value type="5" number="3" options="Yes;No">Damper operable</value>
+                <value type="0" number="4">Open joints or cracks in firebrick/panels should be sealed</value>
+                <value type="0" number="5">Fireplace doors need repair</value>
+            </option>
+            <option name="Damper modified for gas operation" number="6">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+                <value type="0" number="4">Damper missing</value>
+            </option>
+            <option name="Hearth extension adequate" number="7">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Mantel" number="8">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Secure</value>
+                <value type="0" number="3">Loose</value>
+                <value type="0" number="4">Recommend repair/replace</value>
+            </option>
+            <option name="Physical condition" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend having flue cleaned and re-examined</value>
+                <value type="0" number="5">Not evaluated</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="93"/>
+            </option>
+        </subsection>
+        <subsection name="Stairs/Steps/Balconies" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Loose/Missing</value>
+            </option>
+            <option name="Handrail" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Safety hazard</value>
+                <value type="0" number="5">Hand Rail/Railing/Balusters recommended</value>
+            </option>
+            <option name="Risers/Treads" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Risers/Treads uneven</value>
+                <value type="0" number="5">Trip hazard</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="94"/>
+            </option>
+        </subsection>
+        <subsection name="Smoke/Carbon Monoxide detectors" number="3" index="0">
+            <option name="Smoke Detector" number="1">
+                <value type="0" number="1">Present</value>
+                <value type="0" number="2">Not Present</value>
+                <value type="5" number="3" options="Yes;No;Not tested;Recommend additional">Operable</value>
+                <value type="0" number="4">Safety Hazard</value>
+            </option>
+            <option name="CO Detector" number="2">
+                <value type="0" number="1">Present</value>
+                <value type="0" number="2">Not Present</value>
+                <value type="5" number="3" options="Yes;No;Not tested;Recommend additional">Operable</value>
+                <value type="0" number="4">Safety Hazard</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="1" button="95"/>
+            </option>
+        </subsection>
+        <subsection name="Attic/Structure/Framing/Insulation" number="4" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Access" number="2">
+                <value type="0" number="1">Stairs</value>
+                <value type="0" number="2">Pulldown</value>
+                <value type="0" number="3">Scuttlehole/Hatch</value>
+                <value type="0" number="4">No Access</value>
+                <value type="1" number="5">Other</value>
+                <value type="6" number="5">Access limited by</value>
+            </option>
+            <option name="Inspected from" number="3">
+                <value type="0" number="1">Access panel</value>
+                <value type="0" number="2">In the attic</value>
+                <value type="0" number="3">Other</value>
+            </option>
+            <option name="Location" number="4">
+                <value type="0" number="1">Hallway</value>
+                <value type="0" number="2">Bedroom Closet</value>
+                <value type="0" number="3">Garage</value>
+                <value type="0" number="4">Other</value>
+            </option>
+            <option name="Flooring" number="5">
+                <value type="0" number="1">Complete</value>
+                <value type="0" number="2">Partial</value>
+                <value type="0" number="3">None</value>
+            </option>
+            <option name="Insulation" number="6">
+                <value type="0" number="1">Fiberglass</value>
+                <value type="0" number="2">Batts</value>
+                <value type="0" number="3">Loose</value>
+                <value type="0" number="4">Cellulose</value>
+                <value type="0" number="5">Foam</value>
+                <value type="0" number="6">Other</value>
+                <value type="0" number="7">Vermiculite</value>
+                <value type="0" number="8">Rock wool</value>
+                <value type="3" number="9" button="98">Depth</value>
+                <value type="0" number="10">Damaged</value>
+                <value type="0" number="11">Displaced</value>
+                <value type="0" number="12">Missing</value>
+                <value type="0" number="13">Compressed</value>
+                <value type="0" number="14">Recommend additional insulation</value>
+            </option>
+            <option name="Installed in" number="7">
+                <value type="0" number="1">Rafters/Trusses</value>
+                <value type="0" number="2">Walls</value>
+                <value type="0" number="3">Between ceiling joists</value>
+                <value type="0" number="4">Underside of roof deck</value>
+                <value type="0" number="5">Not Visible</value>
+            </option>
+            <option name="Vapor barriers" number="8">
+                <value type="0" number="1">Kraft/foil faced</value>
+                <value type="0" number="2">Plastic sheeting</value>
+                <value type="0" number="3">Not Visible</value>
+                <value type="0" number="4">Improperly installed</value>
+            </option>
+            <option name="Ventilation" number="9">
+                <value type="0" number="1">Ventilation appears adequate</value>
+                <value type="0" number="2">Recommend additional ventilation</value>
+                <value type="0" number="3">Recommend baffles at eaves</value>
+            </option>
+            <option name="Fans exhausted to" number="10">
+                <value type="5" number="1" options="Yes;No;Recommend repair">Attic</value>
+                <value type="5" number="2" options="Yes;No">Outside</value>
+                <value type="0" number="3">Not Visible</value>
+            </option>
+            <option name="HVAC Duct" number="11">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Damaged</value>
+                <value type="0" number="4">Split</value>
+                <value type="0" number="5">Disconnected</value>
+                <value type="0" number="6">Leaking</value>
+                <value type="0" number="7">Repair/Replace</value>
+                <value type="0" number="8">Recommend Insulation</value>
+            </option>
+            <option name="Chimney chase" number="12">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Needs repair</value>
+                <value type="0" number="4">Not Visible</value>
+            </option>
+            <option name="Structural problems observed" number="13">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Recommend repair</value>
+                <value type="0" number="4">Recommend structural engineer</value>
+            </option>
+            <option name="Roof structure" number="14">
+                <value type="0" number="1">Rafters</value>
+                <value type="0" number="2">Trusses</value>
+                <value type="0" number="3">Wood</value>
+                <value type="0" number="4">Metal</value>
+                <value type="0" number="5">Collar ties</value>
+                <value type="0" number="6">Purlins</value>
+                <value type="0" number="7">Knee wall</value>
+                <value type="0" number="8">Not Visible</value>
+                <value type="1" number="9">Other</value>
+            </option>
+            <option name="Ceiling joists" number="15">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Metal</value>
+                <value type="0" number="3">Not Visible</value>
+            </option>
+            <option name="Sheathing" number="16">
+                <value type="0" number="1">Plywood</value>
+                <value type="0" number="2">OSB</value>
+                <value type="0" number="3">Planking</value>
+                <value type="0" number="4">Rotted</value>
+                <value type="0" number="5">Stained</value>
+                <value type="0" number="6">Delaminated</value>
+            </option>
+            <option name="Evidence of condensation" number="17">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Evidence of moisture" number="18">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Evidence of leaking" number="19">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Firewall between units" number="20">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+                <value type="0" number="4">Needs repair/sealing</value>
+            </option>
+            <option name="Electrical" number="21">
+                <value type="0" number="1">No apparent defects</value>
+                <value type="0" number="2">Open junction box(es)</value>
+                <value type="0" number="3">Handyman wiring</value>
+                <value type="0" number="4">Knob and tube covered with insulation</value>
+                <value type="0" number="5">Safety Hazard</value>
+            </option>
+            <option name="Comments" number="22">
+                <value type="2" number="1" button="96"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Basement" number="13" index="-1" tag="basementType">
+        <subsection name="Stairs" number="1" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical wear and tear</value>
+                <value type="0" number="5">Need repair</value>
+                <value type="0" number="6">Risers Uneven</value>
+                <value type="0" number="7">Safety Hazard</value>
+            </option>
+            <option name="Handrail" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Satisfactory;Loose">Condition</value>
+                <value type="0" number="4">Handrail/Railing/Balusters recommended</value>
+            </option>
+            <option name="Headway over stairs" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Low clearance</value>
+                <value type="0" number="3">Safety hazard</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="100"/>
+            </option>
+        </subsection>
+        <subsection name="Foundation" number="2" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Have evaluated</value>
+                <value type="0" number="4">Monitor</value>
+                <value type="0" number="5">Not Elevated</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">ICF</value>
+                <value type="0" number="2">Brick</value>
+                <value type="0" number="3">Concrete block</value>
+                <value type="0" number="4">Stone Masonry</value>
+                <value type="0" number="5">Poured concrete</value>
+                <value type="0" number="6">wood</value>
+            </option>
+            <option name="Horizontal cracks" number="3">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">North</value>
+                <value type="0" number="3">South</value>
+                <value type="0" number="4">East</value>
+                <value type="0" number="5">West</value>
+            </option>
+            <option name="Step cracks" number="4">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">North</value>
+                <value type="0" number="3">South</value>
+                <value type="0" number="4">East</value>
+                <value type="0" number="5">West</value>
+            </option>
+            <option name="Vertical cracks" number="5">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">North</value>
+                <value type="0" number="3">South</value>
+                <value type="0" number="4">East</value>
+                <value type="0" number="5">West</value>
+            </option>
+            <option name="Covered walls" number="6">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">North</value>
+                <value type="0" number="3">South</value>
+                <value type="0" number="4">East</value>
+                <value type="0" number="5">West</value>
+            </option>
+            <option name="Movement apparent" number="7">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">North</value>
+                <value type="0" number="3">South</value>
+                <value type="0" number="4">East</value>
+                <value type="0" number="5">West</value>
+            </option>
+            <option name="Indication of moisture" number="8">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Fresh</value>
+                <value type="0" number="4">Old stains</value>
+            </option>
+            <option name="Comments" number="9">
+                <value type="2" number="1" button="101"/>
+            </option>
+        </subsection>
+        <subsection name="Floor" number="3" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Dirt/Gravel</value>
+                <value type="0" number="3">Not Visible</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical cracks</value>
+                <value type="0" number="5">Not Visible</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="103"/>
+            </option>
+        </subsection>
+        <subsection name="Seismic bolts" number="4" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="0" number="2" isna="1">None visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Appear satisfactory</value>
+                <value type="0" number="2">Recommend evaluation</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="104"/>
+            </option>
+        </subsection>
+        <subsection name="Drainage" number="5" index="0">
+            <option name="Sump pump" number="1">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Working</value>
+                <value type="0" number="4">Not working</value>
+                <value type="0" number="5">Needs cleaning</value>
+                <value type="0" number="6">Pump not tested</value>
+            </option>
+            <option name="Floor drains" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">Not Visible</value>
+                <value type="0" number="3">Drains not tested</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="105"/>
+            </option>
+        </subsection>
+        <subsection name="Girders/Beams" number="6" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Stained/Rusted</value>
+            </option>
+            <option name="Material" number="3">
+                <value type="0" number="1">Steel</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Concrete</value>
+                <value type="0" number="4">LVL</value>
+                <value type="0" number="5">Not Visible</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="106"/>
+            </option>
+        </subsection>
+        <subsection name="Columns" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Stained/Rusted</value>
+            </option>
+            <option name="Material" number="3">
+                <value type="0" number="1">Steel</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Concrete</value>
+                <value type="0" number="4">Block</value>
+                <value type="0" number="5">Not Visible</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="107"/>
+            </option>
+        </subsection>
+        <subsection name="Joists" number="8" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Material" number="3">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Steel</value>
+                <value type="0" number="3">Truss</value>
+                <value type="0" number="4">Not Visible</value>
+                <value type="0" number="5">2x8</value>
+                <value type="0" number="6">2x10</value>
+                <value type="0" number="7">2x12</value>
+                <value type="0" number="8">Engineered I-Type</value>
+                <value type="0" number="9">Sagging/altered joists</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="108"/>
+            </option>
+        </subsection>
+        <subsection name="Subfloor" number="9" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Indication of moisture stains/rotting</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="109"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Crawl Space" number="14" index="-1" tag="crawlspaceType">
+        <subsection name="Crawl space" number="1" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Full crawlspace</value>
+                <value type="0" number="2">Combination basement/crawl space/slab</value>
+            </option>
+            <option name="Conditioned (heated/cooled)" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="111"/>
+            </option>
+        </subsection>
+        <subsection name="Access" number="2" index="0">
+            <option name="Location" number="1">
+                <value type="0" number="1">Exterior</value>
+                <value type="0" number="2">Interior hatch/door</value>
+                <value type="0" number="3">Via basement</value>
+                <value type="0" number="4">No access</value>
+            </option>
+            <option name="Inspected from" number="2">
+                <value type="0" number="1">Access panel</value>
+                <value type="0" number="2">In the crawl space</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="112"/>
+            </option>
+        </subsection>
+        <subsection name="Foundation walls" number="3" index="0">
+            <option name="Condition" number="1">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Have Evaluated</value>
+                <value type="0" number="4">Monitor</value>
+                <value type="0" number="5">Cracks</value>
+                <value type="0" number="6">Movement</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Concrete block</value>
+                <value type="0" number="2">Poured concrete</value>
+                <value type="0" number="3">Stone</value>
+                <value type="0" number="4">ICF</value>
+                <value type="0" number="5">Wood</value>
+                <value type="0" number="6">Brick</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="113"/>
+            </option>
+        </subsection>
+        <subsection name="Floor" number="4" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Concrete</value>
+                <value type="0" number="2">Gravel</value>
+                <value type="0" number="3">Dirt</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Typical cracks</value>
+                <value type="0" number="2">Not Visible</value>
+                <value type="0" number="3">Vapor barrier present</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="114"/>
+            </option>
+        </subsection>
+        <subsection name="Seismic bolts" number="5" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="0" number="2" isna="1">None visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Appear satisfactory</value>
+                <value type="0" number="2">Recommed evaluation</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="115"/>
+            </option>
+        </subsection>
+        <subsection name="Drainage" number="6" index="0">
+            <option name="Sump pump" number="1">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+                <value type="0" number="4">Pump not tested</value>
+            </option>
+            <option name="Standing water" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Not Visible</value>
+            </option>
+            <option name="Evidence of moisture damage" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="116"/>
+            </option>
+        </subsection>
+        <subsection name="Ventilation" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Location" number="2">
+                <value type="0" number="1">Wall vents</value>
+                <value type="0" number="2">Power vents</value>
+                <value type="0" number="3">None apparent</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Additional ventilation recommended</value>
+                <value type="0" number="2">Evidence of moisture damage</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="117"/>
+            </option>
+        </subsection>
+        <subsection name="Girders/Beams/Columns" number="8" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Steel</value>
+                <value type="0" number="2">Wood</value>
+                <value type="0" number="3">Masonry</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Not Visible</value>
+                <value type="0" number="5">Sagging/Altered</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="118"/>
+            </option>
+        </subsection>
+        <subsection name="Joists" number="9" index="0">
+            <option name="Material" number="1">
+                <value type="0" number="1">Wood</value>
+                <value type="0" number="2">Steel</value>
+                <value type="0" number="3">Truss</value>
+                <value type="0" number="4">Not Visible</value>
+                <value type="0" number="5">2x8</value>
+                <value type="0" number="6">2x10</value>
+                <value type="0" number="7">2x12</value>
+                <value type="0" number="8">Engineered I-Type</value>
+                <value type="0" number="9">Sagging/Altered joists</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="2">
+                <value type="2" number="3" button="119"/>
+            </option>
+        </subsection>
+        <subsection name="Subfloor" number="10" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">Not Visible</value>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Indication of moisture stains/rotting</value>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="3" button="120"/>
+            </option>
+        </subsection>
+        <subsection name="Insulation" number="11" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Fiberglass</value>
+                <value type="0" number="2">Cellulose</value>
+                <value type="0" number="3">Rockwool</value>
+                <value type="0" number="4">Foam</value>
+                <value type="0" number="5">Not Visible</value>
+                <value type="2" number="6" button="99"/>
+            </option>
+            <option name="Location" number="3">
+                <value type="0" number="1">Walls</value>
+                <value type="0" number="2">Between floor joists</value>
+                <value type="1" number="3">Other</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="121"/>
+            </option>
+        </subsection>
+        <subsection name="Vapor barrier" number="12" index="0">
+            <option name="Present" number="1">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Not Visible</value>
+                <value type="0" number="4">Improperly installed</value>
+            </option>
+            <option name="Material" number="2">
+                <value type="0" number="1">Kraft/foil faced</value>
+                <value type="0" number="2">Plastic</value>
+                <value type="0" number="3">Not Visible</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="122"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Plumbing" number="15" index="0">
+        <subsection name="Water service" number="1" index="0">
+            <option name="Main shut-off location" number="1">
+                <value type="2" number="1" button="131"/>
+            </option>
+            <option name="Water entry piping" number="2">
+                <value type="0" number="1">Not Visible</value>
+                <value type="0" number="2">Copper/Galv.</value>
+                <value type="0" number="3">PVC Plastic</value>
+                <value type="0" number="4">CPVC Plastic</value>
+                <value type="0" number="5">Polybutylene Plastic</value>
+                <value type="0" number="6">PEX Plastic</value>
+                <value type="0" number="7">Lead</value>
+                <value type="0" number="8">Polyethylene</value>
+            </option>
+            <option name="Lead other than solder joints" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Unknown</value>
+                <value type="0" number="4">Service entry</value>
+            </option>
+            <option name="Visible water distribution piping" number="4">
+                <value type="0" number="1">Copper</value>
+                <value type="0" number="2">Galvanized</value>
+                <value type="0" number="3">PVC Plastic</value>
+                <value type="0" number="4">CPVC Plastic</value>
+                <value type="0" number="5">Polybutylene Plastic</value>
+                <value type="0" number="6">PEX Plastic</value>
+                <value type="1" number="7">Other</value>
+            </option>
+            <option name="Condition" number="5">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Flow" number="6">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Water pressure over 80 psi</value>
+                <value type="0" number="5">Recommend plumber evaluate</value>
+                <value type="0" number="6">Recommend pressure regulator</value>
+            </option>
+            <option name="Pipes Supply/Drain" number="7">
+                <value type="0" number="1">Corroded</value>
+                <value type="0" number="2">Leaking</value>
+                <value type="0" number="3">Valves broken/missing</value>
+                <value type="0" number="4">Dissimilar metal</value>
+                <value type="5" number="5" options="Yes;No;Safety Hazard">Cross connection</value>
+                <value type="0" number="6">Recommend repair</value>
+                <value type="0" number="7">Recommend a dielectric union</value>
+                <value type="0" number="8">Satisfactory</value>
+            </option>
+            <option name="Drain/Waste/Vent pipe" number="8">
+                <value type="0" number="1">Copper</value>
+                <value type="0" number="2">Cast iron</value>
+                <value type="0" number="3">Galvanized</value>
+                <value type="0" number="4">PVC</value>
+                <value type="0" number="5">ABS</value>
+                <value type="0" number="6">Brass</value>
+            </option>
+            <option name="Condition" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Support/Insulation" number="10">
+                <value type="0" number="1">N/A</value>
+                <value type="2" number="2" button="110">Type</value>
+            </option>
+            <option name="Traps proper P-Type" number="11">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">P-traps recommended</value>
+            </option>
+            <option name="Drainage" number="12">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Interior fuel storage system" number="13">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+                <value type="5" number="4" options="Yes;No">Leaking</value>
+            </option>
+            <option name="Fuel line" number="14">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Copper</value>
+                <value type="0" number="3">Brass</value>
+                <value type="0" number="4">Black iron</value>
+                <value type="0" number="5">Stainless steel</value>
+                <value type="0" number="6">CSST</value>
+                <value type="0" number="7">Not Visible</value>
+                <value type="0" number="8">Galvanized</value>
+                <value type="0" number="9">Recommend CSST be properly bonded</value>
+            </option>
+            <option name="Condition" number="15">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Recommend plumber evaluate</value>
+            </option>
+            <option name="Comments" number="16">
+                <value type="2" number="1" button="125"/>
+            </option>
+        </subsection>
+        <subsection name="Main fuel shut-off location" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Location" number="2">
+                <value type="2" number="2" button="131"/>
+            </option>
+            <option name="Comments" number="3">
+                <value type="2" number="1" button="126"/>
+            </option>
+        </subsection>
+        <subsection name="Well pump" number="3" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Submersible</value>
+                <value type="0" number="2">In basement</value>
+                <value type="0" number="3">Well house</value>
+                <value type="0" number="4">Well pit</value>
+                <value type="0" number="5">Shared well</value>
+            </option>
+            <option name="Pressure gauge operable" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="3" number="3">Well pressure</value>
+                <value type="0" number="4">Not Visible</value>
+            </option>
+            <option name="Comments" number="4">
+                <value type="2" number="1" button="127"/>
+            </option>
+        </subsection>
+        <subsection name="Sanitary/Grinder pump" number="4" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+                <value type="5" number="2" options="Yes;No">Operable</value>
+            </option>
+            <option name="Sealed Crock" number="2">
+                <value type="5" number="1" options="Yes;No">Sealed crock</value>
+            </option>
+            <option name="Check Valve" number="3">
+                <value type="5" number="1" options="Yes;No">Check valve</value>
+            </option>
+            <option name="Shut-off Valve" number="4">
+                <value type="5" number="1" options="Yes;No">Shut-off valve</value>
+            </option>
+            <option name="Vented" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="6">
+                <value type="2" number="1" button="128"/>
+            </option>
+        </subsection>
+        <subsection name="Water heater #1" number="5" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="General" number="2">
+                <value type="2" number="1" button="124">Brand Name</value>
+                <value type="3" number="2">Serial #</value>
+                <value type="2" number="3" button="132">Capacity</value>
+                <value type="2" number="4" button="33">Approx. age</value>
+            </option>
+            <option name="Type" number="3">
+                <value type="0" number="1">Gas</value>
+                <value type="0" number="2">Electric</value>
+                <value type="0" number="3">Oil</value>
+                <value type="0" number="4">LP</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Combustion air venting present" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">N/A</value>
+            </option>
+            <option name="Seismic restraints needed" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">N/A</value>
+            </option>
+            <option name="Relief valve" number="6">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" options="Yes;No;Missing;Recommend repair;Improper material" number="3">Extension proper</value>
+            </option>
+            <option name="Vent pipe" number="8">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Pitch proper</value>
+                <value type="0" number="4">Improper</value>
+                <value type="0" number="5">Rusted</value>
+                <value type="0" number="6">Recommend repair</value>
+            </option>
+            <option name="Condition" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="129"/>
+            </option>
+        </subsection>
+        <subsection name="Water heater #2" number="6" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="General" number="1">
+                <value type="2" number="1" button="124">Brand Name</value>
+                <value type="3" number="2">Serial #</value>
+                <value type="2" number="3" button="132">Capacity</value>
+                <value type="2" number="4" button="33">Approx. age</value>
+            </option>
+            <option name="Type" number="3">
+                <value type="0" number="1">Gas</value>
+                <value type="0" number="2">Electric</value>
+                <value type="0" number="3">Oil</value>
+                <value type="0" number="4">LP</value>
+                <value type="1" number="5">Other</value>
+            </option>
+            <option name="Combustion air venting present" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">N/A</value>
+            </option>
+            <option name="Seismic restraints needed" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">N/A</value>
+            </option>
+            <option name="Relief valve" number="6">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" options="Yes;No;Missing;Recommend repair;Improper material" number="3">Extension proper</value>
+            </option>
+            <option name="Vent pipe" number="8">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Pitch proper</value>
+                <value type="0" number="4">Improper</value>
+                <value type="0" number="5">Rusted</value>
+                <value type="0" number="6">Recommend repair</value>
+            </option>
+            <option name="Condition" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="129"/>
+            </option>
+        </subsection>
+        <subsection name="Water softener" number="7" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None</value>
+            </option>
+            <option name="Loop installed" number="2">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Plumbing hooked up" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Plumbing leaking" number="4">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="130"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Heating System" number="16" index="0">
+        <subsection name="Heating system" number="1" index="0">
+            <option name="Unit #1" number="1">
+                <value type="2" number="1" button="133">Brand name</value>
+                <value type="2" number="2" button="33">Approx. age</value>
+                <value type="0" number="3">Unknown</value>
+                <value type="3" number="4">Model #</value>
+                <value type="3" number="5">Serial #</value>
+                <value type="0" number="6">Satisfactory</value>
+                <value type="0" number="7">Marginal</value>
+                <value type="0" number="8">Poor</value>
+                <value type="0" number="9">Recommended HVAC technician examine</value>
+            </option>
+            <option name="Unit #2" number="2">
+                <value type="0" number="1">None</value>
+                <value type="2" number="2" button="133">Brand name</value>
+                <value type="2" number="3" button="33">Approx. age</value>
+                <value type="0" number="4">Unknown</value>
+                <value type="2" number="5" button="137">Model #</value>
+                <value type="3" number="6">Serial #</value>
+                <value type="0" number="7">Satisfactory</value>
+                <value type="0" number="8">Marginal</value>
+                <value type="0" number="9">Poor</value>
+                <value type="0" number="10">Recommended HVAC technician examine</value>
+            </option>
+            <option name="Energy source" number="3">
+                <value type="0" number="1">Gas</value>
+                <value type="0" number="2">LP</value>
+                <value type="0" number="3">Oil</value>
+                <value type="0" number="4">Electric</value>
+                <value type="0" number="5">Solid fuel</value>
+            </option>
+            <option name="Warm air system" number="4">
+                <value type="0" number="1">Belt drive</value>
+                <value type="0" number="2">Direct drive</value>
+                <value type="0" number="3">Gravity</value>
+                <value type="0" number="4">Central system</value>
+                <value type="0" number="5">Floor/wall furnace</value>
+            </option>
+            <option name="Heat exchanger" number="5">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Sealed</value>
+                <value type="0" number="3">Not Visible</value>
+                <value type="0" number="4">Visual w/mirror</value>
+                <value type="0" number="5">Flame distortion</value>
+                <value type="0" number="6">Rusted</value>
+                <value type="0" number="7">Carbon/soot buildup</value>
+            </option>
+            <option name="Carbon monoxide" number="6">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Detected at plenum</value>
+                <value type="0" number="3">Detected at register</value>
+                <value type="0" number="4">Not tested</value>
+                <value type="2" number="5" button="144">Tester</value>
+            </option>
+            <option name="Combustion air venting present" number="7">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Yes</value>
+                <value type="0" number="3">No</value>
+            </option>
+            <option name="Controls" number="8">
+                <value type="5" number="1" options="Yes;No">Disconnect</value>
+                <value type="0" number="2">Normal operating and safety controls observed</value>
+                <value type="5" number="3" options="Yes;No">Gas shut off valve</value>
+            </option>
+            <option name="Distribution" number="9">
+                <value type="0" number="1">Metal duct</value>
+                <value type="0" number="2">Insulated flex duct</value>
+                <value type="0" number="3">Cold air returns</value>
+                <value type="0" number="4">Duct board</value>
+                <value type="0" number="5">Asbestos-like wrap</value>
+                <value type="0" number="6">Safety Hazard</value>
+            </option>
+            <option name="Flue piping" number="10">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Rusted</value>
+                <value type="0" number="4">Improper slope</value>
+                <value type="0" number="5">Safety hazard</value>
+                <value type="0" number="6">Recommend repair/replace</value>
+            </option>
+            <option name="Filter" number="11">
+                <value type="0" number="1">Standard</value>
+                <value type="0" number="2">Electrostatic</value>
+                <value type="0" number="3">Satisfactory</value>
+                <value type="0" number="4">Needs cleaning/replacement</value>
+                <value type="0" number="5">Missing</value>
+                <value type="0" number="6">Electronic (not tested)</value>
+            </option>
+            <option name="When turned on by thermostat" number="12">
+                <value type="0" number="1">Fired</value>
+                <value type="0" number="2">Did not fire</value>
+                <value type="5" number="3" options="Yes;No;Not tested">Proper operation</value>
+            </option>
+            <option name="Heat pump" number="13">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Supplemental electric</value>
+                <value type="0" number="3">Supplemental gas</value>
+            </option>
+            <option name="Sub-slab ducts" number="14">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="5" number="5" options="Yes;No">Water/Sand Observed</value>
+            </option>
+            <option name="System not operated due to" number="15">
+                <value type="0" number="1">N/A</value>
+                <value type="0" number="2">Exterior temperature</value>
+                <value type="1" number="3">Other</value>
+            </option>
+            <option name="Comments" number="16">
+                <value type="2" number="1" button="134"/>
+            </option>
+        </subsection>
+        <subsection name="Boiler system" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="General" number="2">
+                <value type="2" number="1" button="133">Brand name</value>
+                <value type="2" number="2" button="33">Approx. age</value>
+                <value type="2" number="3" button="61">Model #</value>
+                <value type="3" number="4">Serial #</value>
+            </option>
+            <option name="Energy source" number="3">
+                <value type="0" number="1">Gas</value>
+                <value type="0" number="2">LP</value>
+                <value type="0" number="3">Oil</value>
+                <value type="0" number="4">Electric</value>
+                <value type="0" number="5">Solid fuel</value>
+            </option>
+            <option name="Distribution" number="4">
+                <value type="0" number="1">Hot water</value>
+                <value type="0" number="2">Baseboard</value>
+                <value type="0" number="3">Steam</value>
+                <value type="0" number="4">Radiator</value>
+                <value type="0" number="5">Radiant floor</value>
+            </option>
+            <option name="Circulator" number="5">
+                <value type="0" number="1">Pump</value>
+                <value type="0" number="2">Gravity</value>
+                <value type="0" number="3">Multiple zones</value>
+            </option>
+            <option name="Controls" number="6">
+                <value type="5" number="1" options="Yes;No">Temp/pressure gauge exist</value>
+                <value type="5" number="2" options="Yes;No">Operable</value>
+            </option>
+            <option name="Oil fired units" number="7">
+                <value type="5" number="1" options="Yes;No">Disconnect</value>
+            </option>
+            <option name="Combustion air venting present" number="8">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">N/A</value>
+            </option>
+            <option name="Relief valve" number="9">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Missing</value>
+                <value type="5" number="4" options="Yes;No;Recommend repair/replace">Extension proper</value>
+            </option>
+            <option name="Operated" number="10">
+                <value type="5" number="1" options="Fired;Did not fire">When turned on by thermostat</value>
+            </option>
+            <option name="Operation" number="11">
+                <value type="5" number="1" options="Yes;No">Satisfactory</value>
+                <value type="0" number="2">Recommend HVAC technician examine before closing</value>
+            </option>
+            <option name="Comments" number="12">
+                <value type="2" number="1" button="135"/>
+            </option>
+        </subsection>
+        <subsection name="Other systems" number="3" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="Type" number="2">
+                <value type="0" number="1">Electric baseboard</value>
+                <value type="0" number="2">Radiant ceiling cable</value>
+                <value type="0" number="3">Gas space heater</value>
+                <value type="0" number="4">Solid fuel burning stove</value>
+            </option>
+            <option name="Proper operation" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="System condition" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend HVAC Technician Examine</value>
+            </option>
+            <option name="Comments" number="5">
+                <value type="2" number="1" button="136"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Electric/Cooling System" number="17" index="0">
+        <subsection name="Main panel" number="1" index="0">
+            <option name="Location" number="1">
+                <value type="2" number="1" button="142"/>
+            </option>
+            <option name="Condition" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Poor</value>
+            </option>
+            <option name="Adequate Clearance to Panel" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+            </option>
+            <option name="Amperage/Voltage" number="3">
+                <value type="0" number="1">Unknown</value>
+                <value type="0" number="2">60a</value>
+                <value type="0" number="3">100a</value>
+                <value type="0" number="4">150a</value>
+                <value type="0" number="5">200a</value>
+                <value type="0" number="6">400a</value>
+                <value type="0" number="7">120v/240v</value>
+            </option>
+            <option name="Breakers/Fuses" number="4">
+                <value type="0" number="1">Breakers</value>
+                <value type="0" number="2">Fuses</value>
+            </option>
+            <option name="Appears grounded" number="5">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="0" number="3">Not Visible</value>
+            </option>
+            <option name="GFCI breaker" number="6">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No">Operable</value>
+            </option>
+            <option name="AFCI breaker" number="7">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Yes;No;Not Tested">Operable</value>
+            </option>
+            <option name="Main wire" number="8">
+                <value type="0" number="1">Copper</value>
+                <value type="0" number="2">Aluminum</value>
+                <value type="0" number="3">Not Visible</value>
+                <value type="0" number="4">Double tapping of the main wire</value>
+                <value type="5" number="5" options="Satisfactory;Marginal;Poor">Condition</value>
+            </option>
+            <option name="Branch wire" number="9">
+                <value type="0" number="1">Copper</value>
+                <value type="0" number="2">Aluminum</value>
+                <value type="0" number="3">Solid Branch Aluminum Wiring</value>
+                <value type="0" number="4">Not Visible</value>
+                <value type="0" number="5">Safety Hazard</value>
+            </option>
+            <option name="Branch wire condition" number="9">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Poor</value>
+                <value type="0" number="3">Recommend electrician evaluate/repair</value>
+                <value type="0" number="4">Romex</value>
+                <value type="0" number="5">BX cable</value>
+                <value type="0" number="6">Conduit</value>
+                <value type="0" number="7">Knob/Tube</value>
+                <value type="0" number="8">Double tapping</value>
+                <value type="0" number="9">Wires undersized/oversized breaker/fuse</value>
+                <value type="0" number="10">Panel not accessible</value>
+                <value type="0" number="11">Not evaluated</value>
+                <value type="2" number="12" button="143">Reason</value>
+            </option>
+            <option name="Comments" number="10">
+                <value type="2" number="1" button="139"/>
+            </option>
+        </subsection>
+        <subsection name="Sub panel(s)" number="2" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">None apparent</value>
+            </option>
+            <option name="Location(s)" number="2">
+                <value type="2" number="1" button="142">Location 1</value>
+                <value type="2" number="2" button="142">Location 2</value>
+                <value type="2" number="3" button="142">Location 3</value>
+            </option>
+            <option name="Evaluation" number="3">
+                <value type="0" number="1">Panel not accessible</value>
+                <value type="0" number="2">Not evaluated</value>
+                <value type="2" number="3" button="143">Reason</value>
+                <value type="0" number="4">Recommend separating/isolating neutrals</value>
+                <value type="0" number="5">Recommend electrician repair/evaluate box</value>
+            </option>
+            <option name="Branch wire" number="4">
+                <value type="0" number="1">Copper</value>
+                <value type="0" number="2">Aluminum</value>
+                <value type="0" number="3">Safety hazard</value>
+                <value type="5" number="4" options="Yes;No">Neutral/ground separated</value>
+                <value type="5" number="5" options="Yes;No">Neutral isolated</value>
+            </option>
+            <option name="Condition" number="5">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+            </option>
+            <option name="Comments" number="6">
+                <value type="2" number="1" button="140"/>
+            </option>
+        </subsection>
+        <subsection name="Evaporator Coil Section Unit #1" number="3" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="General" number="2">
+                <value type="0" number="1">Central system</value>
+                <value type="0" number="2">Wall unit</value>
+                <value type="2" number="3" button="1014">Location</value>
+                <value type="2" number="4" button="33">Age</value>
+            </option>
+            <option name="Evaporator coil" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Not Visible</value>
+                <value type="0" number="3">Needs cleaning</value>
+                <value type="0" number="4">Damaged</value>
+            </option>
+            <option name="Refrigerant lines" number="4">
+                <value type="0" number="1">Leak/Oil present</value>
+                <value type="0" number="2">Damage</value>
+                <value type="0" number="3">Insulation missing</value>
+                <value type="0" number="4">Satisfactory</value>
+            </option>
+            <option name="Condensate line/drain" number="5">
+                <value type="0" number="1">To exterior</value>
+                <value type="0" number="2">To pump</value>
+                <value type="0" number="3">Floor drain</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Secondary condensate line/drain" number="6">
+                <value type="5" number="1" options="Yes;No">Present</value>
+                <value type="5" number="2" options="Yes;No">Needed</value>
+                <value type="0" number="3">Primary pan appears clogged</value>
+                <value type="0" number="4">Recommend technician evaluate</value>
+            </option>
+            <option name="Operation" number="7">
+                <value type="3" number="1">Differential</value>
+            </option>
+            <option name="Condition" number="8">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend HVAC technician examine/clean/service</value>
+                <value type="0" number="5">Not operated due to exterior temperature</value>
+            </option>
+            <option name="Comments" number="9">
+                <value type="2" number="1" button="141"/>
+            </option>
+        </subsection>
+        <subsection name="Evaporator Coil Section Unit #2" number="4" index="0">
+            <option name="" number="1">
+                <value type="0" number="1" isna="1">N/A</value>
+            </option>
+            <option name="General" number="2">
+                <value type="0" number="1">Central system</value>
+                <value type="0" number="2">Wall unit</value>
+                <value type="2" number="3" button="1014">Location</value>
+                <value type="2" number="4" button="33">Age</value>
+            </option>
+            <option name="Evaporator coil" number="3">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Not Visible</value>
+                <value type="0" number="3">Needs cleaning</value>
+                <value type="0" number="4">Damaged</value>
+            </option>
+            <option name="Refrigerant lines" number="4">
+                <value type="0" number="1">Leak/Oil present</value>
+                <value type="0" number="2">Damage</value>
+                <value type="0" number="3">Insulation missing</value>
+                <value type="0" number="4">Satisfactory</value>
+                <value type="0" number="5">Recommend/Replace damaged/missing insulation</value>
+            </option>
+            <option name="Condensate line/drain" number="5">
+                <value type="0" number="1">To exterior</value>
+                <value type="0" number="2">To pump</value>
+                <value type="0" number="3">Floor drain</value>
+                <value type="1" number="4">Other</value>
+            </option>
+            <option name="Secondary condensate line/drain" number="6">
+                <value type="5" number="1" options="Yes;No">Present</value>
+                <value type="5" number="2" options="Yes;No">Needed</value>
+                <value type="0" number="3">Primary pan appears clogged</value>
+                <value type="0" number="4">Recommend technician evaluate</value>
+            </option>
+            <option name="Operation" number="7">
+                <value type="3" number="1">Differential</value>
+            </option>
+            <option name="Condition" number="8">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Recommend HVAC technician examine/clean/service</value>
+                <value type="0" number="5">Not operated due to exterior temperature</value>
+            </option>
+            <option name="Comments" number="9">
+                <value type="2" number="1" button="141"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Living Room" number="18" index="0">
+        <subsection name="Living Room" number="1" index="0">
+            <option name="Location" number="1">
+                <value type="2" number="1" button="91"/>
+            </option>
+            <option name="Walls &amp; Ceiling" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical cracks</value>
+                <value type="0" number="5">Damage</value>
+            </option>
+            <option name="Moisture stains" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="2" number="3" button="60">Where</value>
+            </option>
+            <option name="Floor" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Squeaks</value>
+                <value type="0" number="5">Slopes</value>
+                <value type="0" number="6">Tripping hazard</value>
+            </option>
+            <option name="Ceiling fan" number="5">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Recommend repair/replace</value>
+            </option>
+            <option name="Electrical" number="6">
+                <value type="5" number="1" options="Yes;No;Operable">Switches</value>
+                <value type="5" number="2" options="Yes;No;Operable">Receptacles</value>
+                <value type="5" number="3" options="Yes;No">Open ground/Reverse polarity</value>
+                <value type="0" number="4">Safety hazard</value>
+                <value type="0" number="5">Cover plates missing</value>
+            </option>
+            <option name="Heating source present" number="7">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Doors;Walls;Ceilings">Holes</value>
+            </option>
+            <option name="Doors" number="9">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Cracked glass</value>
+                <value type="0" number="6">Broken/Missing hardware</value>
+            </option>
+            <option name="Windows" number="10">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Cracked glass</value>
+                <value type="0" number="6">Evidence of leaking insulated glass</value>
+                <value type="0" number="7">Broken/Missing hardware</value>
+            </option>
+            <option name="Comments" number="11">
+                <value type="2" number="1" button="92"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Dining Room" number="19" index="0">
+        <subsection name="Dining Room" number="1" index="0">
+            <option name="Location" number="1">
+                <value type="2" number="1" button="91"/>
+            </option>
+            <option name="Walls &amp; Ceiling" number="2">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Typical cracks</value>
+                <value type="0" number="5">Damage</value>
+            </option>
+            <option name="Moisture stains" number="3">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="2" number="3" button="60">Where</value>
+            </option>
+            <option name="Floor" number="4">
+                <value type="0" number="1">Satisfactory</value>
+                <value type="0" number="2">Marginal</value>
+                <value type="0" number="3">Poor</value>
+                <value type="0" number="4">Squeaks</value>
+                <value type="0" number="5">Slopes</value>
+                <value type="0" number="6">Tripping hazard</value>
+            </option>
+            <option name="Ceiling fan" number="5">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Recommend repair/replace</value>
+            </option>
+            <option name="Electrical" number="6">
+                <value type="5" number="1" options="Yes;No;Operable">Switches</value>
+                <value type="5" number="2" options="Yes;No;Operable">Receptacles</value>
+                <value type="5" number="3" options="Yes;No">Open ground/Reverse polarity</value>
+                <value type="0" number="4">Safety hazard</value>
+                <value type="0" number="5">Cover plates missing</value>
+            </option>
+            <option name="Heating source present" number="7">
+                <value type="0" number="1">Yes</value>
+                <value type="0" number="2">No</value>
+                <value type="5" number="3" options="Doors;Walls;Ceilings">Holes</value>
+            </option>
+            <option name="Doors" number="9">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Cracked glass</value>
+                <value type="0" number="6">Broken/Missing hardware</value>
+            </option>
+            <option name="Windows" number="10">
+                <value type="0" number="1">None</value>
+                <value type="0" number="2">Satisfactory</value>
+                <value type="0" number="3">Marginal</value>
+                <value type="0" number="4">Poor</value>
+                <value type="0" number="5">Cracked glass</value>
+                <value type="0" number="6">Evidence of leaking insulated glass</value>
+                <value type="0" number="7">Broken/Missing hardware</value>
+            </option>
+            <option name="Comments" number="11">
+                <value type="2" number="1" button="92"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Pool/Spa" tag="pool" number="20" index="-1">
+        <subsection index="0" name="Area" number="1">
+            <option name="" number="1">
+                <value isna="1" number="1" type="0">N/A</value>
+            </option>
+            <option name="Area around pool/spa" number="2">
+                <value number="1" type="0">Concrete</value>
+                <value number="2" type="0">Kool - Decking</value>
+                <value number="3" type="0">Flagstone</value>
+                <value number="4" type="1">Other</value>
+            </option>
+            <option name="Condition" number="3">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Marginal</value>
+                <value number="3" type="0">Poor</value>
+                <value number="4" type="0">Typical Cracking</value>
+            </option>
+            <option name="Pool/Spa fencing" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="1">Min Height(ft)</value>
+                <value number="4" type="5" options="Yes;No">Gate Self-closing/latching</value>
+            </option>
+            <option name="Diving board platform" number="5">
+                <value number="1" type="0">N/A</value>
+                <value number="2" type="0">Satisfactory</value>
+                <value number="3" type="0">Marginal</value>
+                <value number="4" type="0">Poor</value>
+            </option>
+            <option name="Comments" number="7">
+                <value number="1" type="3" button="1015"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Liner(s)" number="2">
+            <option name="Liner" number="1">
+                <value number="1" type="0">Fiberglass/Acrylic</value>
+                <value number="2" type="0">Plaster/Marcite</value>
+                <value number="3" type="0">Exposed Aggregate/Pebble Tec</value>
+                <value number="4" type="0">Vinyl</value>
+                <value number="5" type="1">Other</value>
+            </option>
+            <option name="Water Clarity" number="2">
+                <value number="1" type="0">Clear</value>
+                <value number="2" type="0">Cloudy</value>
+                <value number="3" type="0">Opaque</value>
+                <value number="4" type="0">Not Visible</value>
+                <value number="5" type="0">Pool closed for winter-not inspected</value>
+            </option>
+            <option name="Condition" number="3">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Marginal</value>
+                <value number="3" type="0">Poor</value>
+                <value number="4" type="5" options="Yes;No;Needs repair">Visible cracks/chips/stains</value>
+            </option>
+            <option name="Comments" number="4">
+                <value number="1" type="3" button="1016"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Heater" number="4">
+            <option name="N/A" number="1">
+                <value isna="1" number="1" type="0">N/A</value>
+            </option>
+            <option name="Energy Source" number="2">
+                <value number="1" type="0">Gas</value>
+                <value number="2" type="0">Solar</value>
+                <value number="3" type="0">Heat Pump</value>
+                <value number="4" type="0">Electric Element</value>
+            </option>
+            <option name="Pilot lit" number="3">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Gas On" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Operated" number="5">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Operation Satisfactory" number="6">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Comments" number="7">
+                <value number="1" type="3" button="1017"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Filter(s) and Cleaning Systems" number="6">
+            <option name="Filter Type" number="1">
+                <value number="1" type="0">Sand</value>
+                <value number="2" type="0">Cartridge</value>
+                <value number="3" type="0">Diatomaceous Earth</value>
+                <value number="4" type="1">Other</value>
+            </option>
+            <option name="Type" number="2">
+                <value number="1" type="0">Pop-up heads</value>
+                <value number="2" type="0">Pool vac</value>
+                <value number="3" type="0">Whips</value>
+                <value number="4" type="1">Other</value>
+            </option>
+            <option name="Operated" number="3">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Operation Satisfactory" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Self-fill Mechanism" number="5">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="Anti-Siphon valve" number="6">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Leaks observed" number="7">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Spa Blower" number="8">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operable</value>
+            </option>
+            <option name="Recommendations" number="9">
+                <value number="1" type="0">Recommend pool technician repair/evaluate/service</value>
+            </option>
+            <option name="Comments" number="10">
+                <value number="1" type="3" button="1018"/>
+            </option>
+        </subsection>
+        <subsection index="0" name="Electrical" number="7">
+            <option name="Pool/Spa light(s)" number="1">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="G.F.C.I. Present" number="2">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">G.F.C.I Recommended</value>
+                <value number="4" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="Electrical equipment bonded" number="5">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="0">Safety Hazard</value>
+            </option>
+            <option name="Time clock" number="6">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+                <value number="3" type="5" options="Yes;No">Operates</value>
+            </option>
+            <option name="Interior cover plate" number="8">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Comments" number="9">
+                <value number="1" type="3" button="1019"/>
+            </option>
+        </subsection>
+    </section>
+</report>

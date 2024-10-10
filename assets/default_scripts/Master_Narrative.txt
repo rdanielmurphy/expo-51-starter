@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 1
+-->
+<report tag="narrative" version="1">
+    <section name="Structure" number="1" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Foundation" number="1">
+                <value type="2" number="1" button="150"/>
+            </option>
+            <option name="Columns" number="2">
+                <value type="2" number="1" button="151"/>
+            </option>
+            <option name="Floor" number="3">
+                <value type="2" number="1" button="152"/>
+            </option>
+            <option name="Wall" number="4">
+                <value type="2" number="1" button="153"/>
+            </option>
+            <option name="Ceiling" number="5">
+                <value type="2" number="1" button="154"/>
+            </option>
+            <option name="Roof" number="6">
+                <value type="2" number="1" button="155"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Foundations" number="1">
+                <value type="2" number="1" button="156"/>
+            </option>
+            <option name="Crawl spaces" number="2">
+                <value type="2" number="1" button="157"/>
+            </option>
+            <option name="Floors" number="3">
+                <value type="2" number="1" button="158"/>
+            </option>
+            <option name="Exterior walls" number="4">
+                <value type="2" number="1" button="159"/>
+            </option>
+            <option name="Roof" number="5">
+                <value type="2" number="1" button="160"/>
+            </option>
+            <option name="Wood boring insects" number="6">
+                <value type="2" number="1" button="161"/>
+            </option>
+            <option name="Discretionary improvements" number="7">
+                <value type="2" number="1" button="162"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="163"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="164"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="165"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Roofing" number="2" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Roof covering" number="1">
+                <value type="2" number="1" button="166"/>
+            </option>
+            <option name="Roof flashings" number="2">
+                <value type="2" number="1" button="167"/>
+            </option>
+            <option name="Chimneys" number="3">
+                <value type="2" number="1" button="168"/>
+            </option>
+            <option name="Roof drainage system" number="4">
+                <value type="2" number="1" button="169"/>
+            </option>
+            <option name="Skylight" number="5">
+                <value type="2" number="1" button="170"/>
+            </option>
+            <option name="Method of inspection" number="6">
+                <value type="2" number="1" button="171"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Sloped" number="1">
+                <value type="2" number="1" button="172"/>
+            </option>
+            <option name="Flat" number="2">
+                <value type="2" number="1" button="173"/>
+            </option>
+            <option name="Flashings" number="3">
+                <value type="2" number="1" button="174"/>
+            </option>
+            <option name="Chimney" number="4">
+                <value type="2" number="1" button="175"/>
+            </option>
+            <option name="Gutters &#38; downspouts" number="5">
+                <value type="2" number="1" button="176"/>
+            </option>
+            <option name="Discretionary improvements" number="6">
+                <value type="2" number="1" button="177"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="178"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="179"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="180"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Exterior" number="3" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Wall covering" number="1">
+                <value type="2" number="1" button="181"/>
+            </option>
+            <option name="Eaves / soffits / fascias" number="2">
+                <value type="2" number="1" button="182"/>
+            </option>
+            <option name="Doors" number="3">
+                <value type="2" number="1" button="183"/>
+            </option>
+            <option name="Window/door frames and trim" number="4">
+                <value type="2" number="1" button="184"/>
+            </option>
+            <option name="Entry driveways" number="5">
+                <value type="2" number="1" button="185"/>
+            </option>
+            <option name="Entry walkways and patios" number="6">
+                <value type="2" number="1" button="186"/>
+            </option>
+            <option name="Porch / deck / steps / railings" number="7">
+                <value type="2" number="1" button="187"/>
+            </option>
+            <option name="Overhead garage door(s)" number="8">
+                <value type="2" number="1" button="188"/>
+            </option>
+            <option name="Surface drainage" number="9">
+                <value type="2" number="1" button="189"/>
+            </option>
+            <option name="Retaining walls" number="10">
+                <value type="2" number="1" button="190"/>
+            </option>
+            <option name="Fencing" number="11">
+                <value type="2" number="1" button="191"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Ext. walls" number="1">
+                <value type="2" number="1" button="192"/>
+            </option>
+            <option name="Eaves" number="2">
+                <value type="2" number="1" button="193"/>
+            </option>
+            <option name="Windows" number="3">
+                <value type="2" number="1" button="194"/>
+            </option>
+            <option name="Garage" number="4">
+                <value type="2" number="1" button="195"/>
+            </option>
+            <option name="Carport" number="5">
+                <value type="2" number="1" button="196"/>
+            </option>
+            <option name="Lot drainage" number="6">
+                <value type="2" number="1" button="197"/>
+            </option>
+            <option name="Porch" number="7">
+                <value type="2" number="1" button="198"/>
+            </option>
+            <option name="Deck" number="8">
+                <value type="2" number="1" button="199"/>
+            </option>
+            <option name="Steps" number="9">
+                <value type="2" number="1" button="200"/>
+            </option>
+            <option name="Porch / deck cover" number="10">
+                <value type="2" number="1" button="201"/>
+            </option>
+            <option name="Driveway" number="11">
+                <value type="2" number="1" button="202"/>
+            </option>
+            <option name="Walkway" number="12">
+                <value type="2" number="1" button="203"/>
+            </option>
+            <option name="Retaining wall" number="13">
+                <value type="2" number="1" button="204"/>
+            </option>
+            <option name="Landscaping" number="14">
+                <value type="2" number="1" button="205"/>
+            </option>
+            <option name="Fence" number="15">
+                <value type="2" number="1" button="206"/>
+            </option>
+            <option name="Discretionary improvements" number="16">
+                <value type="2" number="1" button="207"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="208"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="209"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="210"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Electrical" number="4" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Size of  service" number="1">
+                <value type="2" number="1" button="211"/>
+            </option>
+            <option name="Service drop" number="2">
+                <value type="2" number="1" button="212"/>
+            </option>
+            <option name="Service entrance conductors" number="3">
+                <value type="2" number="1" button="213"/>
+            </option>
+            <option name="Service equip / main disconnect" number="4">
+                <value type="2" number="1" button="214"/>
+            </option>
+            <option name="Service grounding" number="5">
+                <value type="2" number="1" button="215"/>
+            </option>
+            <option name="Serv. panel / current protect." number="6">
+                <value type="2" number="1" button="216"/>
+            </option>
+            <option name="Sub-panel(s)" number="7">
+                <value type="2" number="1" button="217"/>
+            </option>
+            <option name="Distribution wiring" number="8">
+                <value type="2" number="1" button="218"/>
+            </option>
+            <option name="Wiring method" number="9">
+                <value type="2" number="1" button="219"/>
+            </option>
+            <option name="Switches / receptacles" number="10">
+                <value type="2" number="1" button="220"/>
+            </option>
+            <option name="Ground fault circuit interrupter" number="11">
+                <value type="2" number="1" button="221"/>
+            </option>
+            <option name="Smoke detector(s)" number="12">
+                <value type="2" number="1" button="222"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Safety notice" number="1">
+                <value type="2" number="1" button="223"/>
+            </option>
+            <option name="Service / entrance" number="2">
+                <value type="2" number="1" button="224"/>
+            </option>
+            <option name="Main panel" number="3">
+                <value type="2" number="1" button="225"/>
+            </option>
+            <option name="Auxiliary panel(s)" number="4">
+                <value type="2" number="1" button="226"/>
+            </option>
+            <option name="Distribution wires" number="5">
+                <value type="2" number="1" button="227"/>
+            </option>
+            <option name="Aluminum wiring" number="6">
+                <value type="2" number="1" button="228"/>
+            </option>
+            <option name="Knob &#38; tube wiring" number="7">
+                <value type="2" number="1" button="229"/>
+            </option>
+            <option name="Outlet" number="8">
+                <value type="2" number="1" button="230"/>
+            </option>
+            <option name="Switches" number="9">
+                <value type="2" number="1" button="231"/>
+            </option>
+            <option name="Lights" number="10">
+                <value type="2" number="1" button="232"/>
+            </option>
+            <option name="Smoke detector units" number="11">
+                <value type="2" number="1" button="233"/>
+            </option>
+            <option name="Discretionary improvements" number="12">
+                <value type="2" number="1" button="234"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="235"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="236"/>
+            </option>
+            <option name="Gfci" number="2">
+                <value type="2" number="1" button="237"/>
+            </option>
+            <option name="General comments" number="3">
+                <value type="2" number="1" button="238"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Heating" number="5" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Energy source" number="1">
+                <value type="2" number="1" button="239"/>
+            </option>
+            <option name="System type" number="2">
+                <value type="2" number="1" button="240"/>
+            </option>
+            <option name="Vents / flues / chimneys" number="3">
+                <value type="2" number="1" button="241"/>
+            </option>
+            <option name="Heat distribution methods" number="4">
+                <value type="2" number="1" button="242"/>
+            </option>
+            <option name="Other components" number="5">
+                <value type="2" number="1" button="243"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Furnace" number="1">
+                <value type="2" number="1" button="244"/>
+            </option>
+            <option name="Supply air ductwork" number="2">
+                <value type="2" number="1" button="245"/>
+            </option>
+            <option name="Return air ductwork" number="3">
+                <value type="2" number="1" button="246"/>
+            </option>
+            <option name="Boiler" number="4">
+                <value type="2" number="1" button="247"/>
+            </option>
+            <option name="Piping / radiators" number="5">
+                <value type="2" number="1" button="248"/>
+            </option>
+            <option name="Combustion / exhaust" number="6">
+                <value type="2" number="1" button="249"/>
+            </option>
+            <option name="Furnace chimney" number="7">
+                <value type="2" number="1" button="250"/>
+            </option>
+            <option name="Baseboard heater" number="8">
+                <value type="2" number="1" button="251"/>
+            </option>
+            <option name="Radiant heat" number="9">
+                <value type="2" number="1" button="252"/>
+            </option>
+            <option name="Thermostat" number="10">
+                <value type="2" number="1" button="253"/>
+            </option>
+            <option name="Heat recovery ventilation" number="11">
+                <value type="2" number="1" button="254"/>
+            </option>
+            <option name="Discretionary improvements" number="12">
+                <value type="2" number="1" button="255"/>
+            </option>
+            <option name="Conversion considerations" number="13">
+                <value type="2" number="1" button="256"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="257"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="258"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="259"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Cooling" number="6" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Energy source" number="1">
+                <value type="2" number="1" button="260"/>
+            </option>
+            <option name="Central system type" number="2">
+                <value type="2" number="1" button="261"/>
+            </option>
+            <option name="Through wall equipment" number="3">
+                <value type="2" number="1" button="262"/>
+            </option>
+            <option name="Other components" number="4">
+                <value type="2" number="1" button="263"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Central air conditioning" number="1">
+                <value type="2" number="1" button="264"/>
+            </option>
+            <option name="Heat pumps" number="2">
+                <value type="2" number="1" button="265"/>
+            </option>
+            <option name="Supply air ductwork" number="3">
+                <value type="2" number="1" button="266"/>
+            </option>
+            <option name="Return air ductwork" number="4">
+                <value type="2" number="1" button="267"/>
+            </option>
+            <option name="Evaporative coolers" number="5">
+                <value type="2" number="1" button="268"/>
+            </option>
+            <option name="Thermostats" number="6">
+                <value type="2" number="1" button="269"/>
+            </option>
+            <option name="House fans" number="7">
+                <value type="2" number="1" button="270"/>
+            </option>
+            <option name="Heat recovery for water heater" number="8">
+                <value type="2" number="1" button="271"/>
+            </option>
+            <option name="Discretionary improvements" number="9">
+                <value type="2" number="1" button="272"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="273"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="274"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="275"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Insulation" number="7" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Attic" number="1">
+                <value type="2" number="1" button="276"/>
+            </option>
+            <option name="Roof cavity" number="2">
+                <value type="2" number="1" button="277"/>
+            </option>
+            <option name="Exterior wall" number="3">
+                <value type="2" number="1" button="278"/>
+            </option>
+            <option name="Basement wall" number="4">
+                <value type="2" number="1" button="279"/>
+            </option>
+            <option name="Crawl space" number="5">
+                <value type="2" number="1" button="280"/>
+            </option>
+            <option name="Floor cavity" number="6">
+                <value type="2" number="1" button="281"/>
+            </option>
+            <option name="Vapor retarders" number="7">
+                <value type="2" number="1" button="282"/>
+            </option>
+            <option name="Roof ventilation" number="8">
+                <value type="2" number="1" button="283"/>
+            </option>
+            <option name="Crawl space ventilation" number="9">
+                <value type="2" number="1" button="284"/>
+            </option>
+            <option name="Exhaust fan/vent locations" number="10">
+                <value type="2" number="1" button="285"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Attic / roof" number="1">
+                <value type="2" number="1" button="286"/>
+            </option>
+            <option name="Walls" number="2">
+                <value type="2" number="1" button="287"/>
+            </option>
+            <option name="Floors" number="3">
+                <value type="2" number="1" button="288"/>
+            </option>
+            <option name="Basement" number="4">
+                <value type="2" number="1" button="289"/>
+            </option>
+            <option name="Crawl space improvement" number="5">
+                <value type="2" number="1" button="290"/>
+            </option>
+            <option name="Environmental issues" number="6">
+                <value type="2" number="1" button="291"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="292"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="293"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="294"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Plumbing" number="8" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Water supply source" number="1">
+                <value type="2" number="1" button="295"/>
+            </option>
+            <option name="Service pipe to house" number="2">
+                <value type="2" number="1" button="296"/>
+            </option>
+            <option name="Main water valve location" number="3">
+                <value type="2" number="1" button="297"/>
+            </option>
+            <option name="Interior supply piping" number="4">
+                <value type="2" number="1" button="298"/>
+            </option>
+            <option name="Waste system" number="5">
+                <value type="2" number="1" button="299"/>
+            </option>
+            <option name="Drain / waste / vent piping" number="6">
+                <value type="2" number="1" button="300"/>
+            </option>
+            <option name="Water heater" number="7">
+                <value type="2" number="1" button="301"/>
+            </option>
+            <option name="Fuel storage / distribution" number="8">
+                <value type="2" number="1" button="302"/>
+            </option>
+            <option name="Fuel shut-off valves" number="9">
+                <value type="2" number="1" button="303"/>
+            </option>
+            <option name="Other components" number="10">
+                <value type="2" number="1" button="304"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Water heater unit" number="1">
+                <value type="2" number="1" button="305"/>
+            </option>
+            <option name="Gas piping" number="2">
+                <value type="2" number="1" button="306"/>
+            </option>
+            <option name="Supply" number="3">
+                <value type="2" number="1" button="307"/>
+            </option>
+            <option name="Waste / vent" number="4">
+                <value type="2" number="1" button="308"/>
+            </option>
+            <option name="Fixtures" number="5">
+                <value type="2" number="1" button="309"/>
+            </option>
+            <option name="Sump pumps" number="6">
+                <value type="2" number="1" button="310"/>
+            </option>
+            <option name="Waste ejector pump" number="7">
+                <value type="2" number="1" button="311"/>
+            </option>
+            <option name="Laundry pump" number="8">
+                <value type="2" number="1" button="312"/>
+            </option>
+            <option name="Sauna unit" number="9">
+                <value type="2" number="1" button="313"/>
+            </option>
+            <option name="Discretionary improvements" number="10">
+                <value type="2" number="1" button="314"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="315"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="316"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="317"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Interior" number="9" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Wall/ceiling materials" number="1">
+                <value type="2" number="1" button="318"/>
+            </option>
+            <option name="Floor surfaces" number="2">
+                <value type="2" number="1" button="319"/>
+            </option>
+            <option name="Window type(s) / glazing" number="3">
+                <value type="2" number="1" button="320"/>
+            </option>
+            <option name="Doors" number="4">
+                <value type="2" number="1" button="321"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Wall / ceiling finishes" number="1">
+                <value type="2" number="1" button="322"/>
+            </option>
+            <option name="Floors" number="2">
+                <value type="2" number="1" button="323"/>
+            </option>
+            <option name="Windows" number="3">
+                <value type="2" number="1" button="324"/>
+            </option>
+            <option name="Door" number="4">
+                <value type="2" number="1" button="325"/>
+            </option>
+            <option name="Kitchen counters" number="5">
+                <value type="2" number="1" button="326"/>
+            </option>
+            <option name="Kitchen cabinets" number="6">
+                <value type="2" number="1" button="327"/>
+            </option>
+            <option name="Skylights" number="7">
+                <value type="2" number="1" button="328"/>
+            </option>
+            <option name="Solariums" number="8">
+                <value type="2" number="1" button="329"/>
+            </option>
+            <option name="Stairways" number="9">
+                <value type="2" number="1" button="330"/>
+            </option>
+            <option name="Basement leakage" number="10">
+                <value type="2" number="1" button="331"/>
+            </option>
+            <option name="Environmental issues" number="11">
+                <value type="2" number="1" button="332"/>
+            </option>
+            <option name="Discretionary improvements" number="12">
+                <value type="2" number="1" button="333"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="334"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Condition of  finishes" number="1">
+                <value type="2" number="1" button="335"/>
+            </option>
+            <option name="Condition of windows and doors" number="2">
+                <value type="2" number="1" button="336"/>
+            </option>
+            <option name="Condition of floors" number="3">
+                <value type="2" number="1" button="337"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Appliance" number="10" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Appliances tested" number="1">
+                <value type="2" number="1" button="338"/>
+            </option>
+            <option name="Laundry facility" number="2">
+                <value type="2" number="1" button="339"/>
+            </option>
+            <option name="Other components tested" number="3">
+                <value type="2" number="1" button="340"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Electric range unit" number="1">
+                <value type="2" number="1" button="341"/>
+            </option>
+            <option name="Gas range unit" number="2">
+                <value type="2" number="1" button="342"/>
+            </option>
+            <option name="Oven" number="3">
+                <value type="2" number="1" button="343"/>
+            </option>
+            <option name="Electric cooktop unit" number="4">
+                <value type="2" number="1" button="344"/>
+            </option>
+            <option name="Gas cooktop unit" number="5">
+                <value type="2" number="1" button="345"/>
+            </option>
+            <option name="Dishwasher unit" number="6">
+                <value type="2" number="1" button="346"/>
+            </option>
+            <option name="Waste disposer unit" number="7">
+                <value type="2" number="1" button="347"/>
+            </option>
+            <option name="Trash compactor unit" number="8">
+                <value type="2" number="1" button="348"/>
+            </option>
+            <option name="Refrigerator unit" number="9">
+                <value type="2" number="1" button="349"/>
+            </option>
+            <option name="Freezer" number="10">
+                <value type="2" number="1" button="350"/>
+            </option>
+            <option name="Clothes dryer unit" number="11">
+                <value type="2" number="1" button="351"/>
+            </option>
+            <option name="Clothes washer unit" number="12">
+                <value type="2" number="1" button="352"/>
+            </option>
+            <option name="Kitchen exhaust hood unit" number="13">
+                <value type="2" number="1" button="353"/>
+            </option>
+            <option name="Kitchen exhaust fan unit" number="14">
+                <value type="2" number="1" button="354"/>
+            </option>
+            <option name="Cooktop exhaust unit" number="15">
+                <value type="2" number="1" button="355"/>
+            </option>
+            <option name="Central vacuum system" number="16">
+                <value type="2" number="1" button="356"/>
+            </option>
+            <option name="Door bell system" number="17">
+                <value type="2" number="1" button="357"/>
+            </option>
+            <option name="Intercom system" number="18">
+                <value type="2" number="1" button="358"/>
+            </option>
+            <option name="Hot water dispenser" number="19">
+                <value type="2" number="1" button="359"/>
+            </option>
+            <option name="Water cond. equipment" number="20">
+                <value type="2" number="1" button="360"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="" number="1">
+                <value type="2" number="1" button="361"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Positive attributes" number="1">
+                <value type="2" number="1" button="362"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="363"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="Fireplace" number="11" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Description" number="1">
+                <value type="2" number="1" button="364"/>
+            </option>
+            <option name="Fireplace" number="2">
+                <value type="2" number="1" button="365"/>
+            </option>
+            <option name="Wood / coal stoves" number="3">
+                <value type="2" number="1" button="366"/>
+            </option>
+            <option name="Vents / flues / chimneys" number="4">
+                <value type="2" number="1" button="367"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Observations" number="1">
+                <value type="2" number="1" button="368"/>
+            </option>
+            <option name="Fireplace" number="2">
+                <value type="2" number="1" button="369"/>
+            </option>
+            <option name="Wood stove unit" number="3">
+                <value type="2" number="1" button="370"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="Limitations" number="1">
+                <value type="2" number="1" button="371"/>
+            </option>
+            <option name="Other components not tested" number="2">
+                <value type="2" number="1" button="372"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Comments" number="1">
+                <value type="2" number="1" button="373"/>
+            </option>
+            <option name="General comments" number="2">
+                <value type="2" number="1" button="374"/>
+            </option>
+        </subsection>
+    </section>
+    <section name="House in Perspective" number="12" index="0">
+        <subsection name="Description" number="1" index="0">
+            <option name="Description" number="1">
+                <value type="2" number="1" button="375"/>
+            </option>
+        </subsection>
+        <subsection name="Observations" number="2" index="0">
+            <option name="Observations" number="1">
+                <value type="2" number="1" button="376"/>
+            </option>
+        </subsection>
+        <subsection name="Limitations" number="3" index="0">
+            <option name="Limitations" number="385">
+                <value type="2" number="1" button="377"/>
+            </option>
+            <option name="Weather conditions" number="2">
+                <value type="2" number="1" button="377"/>
+            </option>
+            <option name="Recent weather conditions" number="3">
+                <value type="2" number="1" button="378"/>
+            </option>
+        </subsection>
+        <subsection name="Comments" number="4" index="0">
+            <option name="Comments" number="1">
+                <value type="2" number="1" button="379"/>
+            </option>
+        </subsection>
+    </section>
+</report>

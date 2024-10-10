@@ -1,0 +1,24 @@
+{
+    "scripts": [
+        {
+            "version": 1,
+            "fileName": "db.migration-1"
+        },
+        {
+            "version": 2,
+            "fileName": "db.migration-2"
+        },
+        {
+            "version": 3,
+            "fileName": "db.migration-3"
+        },
+        {
+            "version": 4,
+            "fileName": "db.migration-4"
+        },
+        {
+            "version": 5,
+            "fileName": "db.migration-5"
+        }
+    ]
+}

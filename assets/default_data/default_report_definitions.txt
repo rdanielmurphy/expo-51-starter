@@ -1,0 +1,24 @@
+ReportDefinition { "name": "Script Checklist Report", "location": "/report_definitions/checklist_report.docx", "versionNumber": 1, "inspectionType_name": "Inspection(Checklist)" }
+ReportDefinition { "name": "Home Inspection Report (Narrative)", "location": "/report_definitions/home_inspection_narrative.docx", "versionNumber": 1, "inspectionType_name": "Inspection(Narrative)" }
+ReportDefinition { "name": "Wood Destroying Organisms", "location": "/report_definitions/services/wdo_report.docx", "versionNumber": 1, "inspectionType_name": "Wood Destroying Organisms" }
+ReportDefinition { "name": "Wood Destroying Organisms - Texas", "location": "/report_definitions/services/wdo_report_tx.docx", "state": "TX", "versionNumber": 1, "inspectionType_name": "Wood Destroying Organisms" }
+ReportDefinition { "name": "Radon Test Agreement", "location": "/report_definitions/services/radon_agreement.docx", "versionNumber": 1, "inspectionType_name": "Radon Test Agreement" }
+ReportDefinition { "name": "Pool Inspection", "location": "/report_definitions/services/pool_inspection.docx", "versionNumber": 1, "inspectionType_name": "Pool Inspection" }
+ReportDefinition { "name": "Home Inspection Report (Color)", "location": "/report_definitions/home_inspection_report.docx", "versionNumber": 1, "inspectionType_name": "Home Inspection Report" }
+ReportDefinition { "name": "Home Inspection Report (B&W)", "location": "/report_definitions/home_inspection_report_black.docx", "versionNumber": 1, "inspectionType_name": "BNW" }
+ReportDefinition { "name": "Home Inspection Report (Texas Checklist)", "location": "/report_definitions/home_inspection_TX.docx", "state": "TX", "versionNumber": 1, "inspectionType_name": "Home Inspection Report" }
+ReportDefinition { "name": "Wind Mitigation Agreement", "location": "/report_definitions/services/wind_agreement.docx", "versionNumber": 1, "inspectionType_name": "Wind Mitigation Agreement" }
+ReportDefinition { "name": "Citizen 4 Point", "location": "/report_definitions/services/4_point_florida.docx", "versionNumber": 1, "inspectionType_name": "4 Point" }
+ReportDefinition { "name": "Roof Report", "location": "/report_definitions/services/roof_condition_report.docx", "versionNumber": 1, "inspectionType_name": "Roof Report" }
+ReportDefinition { "name": "Energy Audit", "location": "/report_definitions/services/energy_audit.docx", "versionNumber": 1, "inspectionType_name": "Energy Audit" }
+ReportDefinition { "name": "Client Thank You Letter", "location": "/report_definitions/thank_you_letters/client_thank_you.docx", "versionNumber": 1, "inspectionType_name": "Client Thank You Letter" }
+ReportDefinition { "name": "Realtor Thank You Letter", "location": "/report_definitions/thank_you_letters/realtor_thank_you.docx", "versionNumber": 1, "inspectionType_name": "Realtor Thank You Letter" }
+ReportDefinition { "name": "Seller Realtor Thank You Letter", "location": "/report_definitions/thank_you_letters/seller_realtor_thank_you.docx", "versionNumber": 1, "inspectionType_name": "Seller Realtor Thank You Letter" }
+ReportDefinition { "name": "Inspection Order Form", "location": "/report_definitions/inspection_order_form.docx", "versionNumber": 1, "inspectionType_name": "Inspection Order Form" }
+ReportDefinition { "name": "Agreement", "location": "/report_definitions/inspection_agreement.docx", "versionNumber": 1, "inspectionType_name": "Inspection Agreement" }
+ReportDefinition { "name": "LA - Home Inspection Agreement", "location": "/report_definitions/Louisiana_inspection_agreement.docx", "state": "LA", "versionNumber": 1, "inspectionType_name": "Inspection Agreement" }
+ReportDefinition { "name": "Invoice", "location": "/report_definitions/invoice.docx", "versionNumber": 1, "inspectionType_name": "Inspection Invoice" }
+ReportDefinition { "name": "Radon Inspection", "location": "/report_definitions/services/radon_inspection.docx", "versionNumber": 1, "inspectionType_name": "Radon Inspection" }
+ReportDefinition { "name": "Receipt", "location": "/report_definitions/receipt.docx", "versionNumber": 1, "inspectionType_name": "Inspection Receipt" }
+ReportDefinition { "name": "ReportPlus", "location": "/report_definitions/ReportPlus.docx", "versionNumber": 1, "inspectionType_name": "ReportPlus" }
+ReportDefinition { "name": "Wind Mitigation", "location": "/report_definitions/services/wind_mitigation.docx", "versionNumber": 1, "inspectionType_name": "Wind Mitigation Report" }

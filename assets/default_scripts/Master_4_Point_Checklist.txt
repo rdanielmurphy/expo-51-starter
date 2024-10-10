@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   If you make any changes to this file, increment the version number.
+   Current prod version is: 3
+-->
+<report tag="additional_service" version="3">
+    <section index="0" name="Electrical Inspection" number="1">
+        <subsection index="0" name="Electrical System" number="1">
+            <option name="Main Panel" number="1">
+                <value number="1" type="5" options="Circuit breaker;Fuse">Type</value>
+                <value number="2" type="3">Total Amps</value>
+                <value number="3" type="5" options="Yes;No(explain)">Is amperage sufficient for current usage?</value>
+                <value number="4" type="3">Panel age</value>
+                <value number="5" type="3">Year last updated</value>
+                <value number="6" type="3">Brand/Model</value>
+            </option>
+            <option name="Second Panel" number="2">
+                <value number="1" type="5" options="Circuit breaker;Fuse">Type</value>
+                <value number="2" type="3">Total Amps</value>
+                <value number="3" type="5" options="Yes;No(explain)">Is amperage sufficient for current usage?</value>
+                <value number="4" type="3">Panel age</value>
+                <value number="5" type="3">Year last updated</value>
+                <value number="6" type="3">Brand/Model</value>
+            </option>
+            <option name="Wiring Type" number="3">
+                <value number="1" type="0">Copper</value>
+                <value number="2" type="0">NM, BX or Conduit</value>
+            </option>
+            <option name="Indicate presence of any of the following" number="4">
+                <value number="1" type="0">Cloth wiring</value>
+                <value number="2" type="0">Active knob and tube</value>
+                <value number="3" type="0">Branch circuit aluminum wiring (If present, describe the usage of all aluminum wiring) *If single strand (aluminum branch) wiring, provide details of all remediation. Separate documentation of all work must be provided</value>
+                <value number="4" type="0">Connections repaired via COPALUM crimp</value>
+                <value number="5" type="0">Connections repaired via AlumiConn</value>
+            </option>
+            <option name="Hazards Present" number="5">
+                <value number="1" type="0">Blowing fuses</value>
+                <value number="2" type="0">Tripping breakers</value>
+                <value number="3" type="0">Empty sockets</value>
+                <value number="4" type="0">Loose wiring</value>
+                <value number="5" type="0">Improper grounding</value>
+                <value number="6" type="0">Corrosion</value>
+                <value number="7" type="0">Over fusing</value>
+                <value number="8" type="0">Double taps</value>
+                <value number="9" type="0">Exposed wiring</value>
+                <value number="10" type="0">Unsafe wiring</value>
+                <value number="11" type="0">Improper breaker size</value>
+                <value number="12" type="0">Scorching</value>
+                <value number="13" type="0">Other (explain)</value>
+            </option>
+            <option name="General condition of the electrical system" number="6">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory (explain)</value>
+            </option>
+            <option name="Supplemental Information" number="7">
+            </option>
+        </subsection>
+    </section>
+    <section index="0" name="HVAC Inspection" number="2">
+        <subsection index="0" name="HVAC System" number="1">
+            <option name="Central AC" number="1">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Central heat" number="2">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="" number="3">
+                <value number="1" type="3">If not central heat, indicate primary heat source and fuel type</value>
+            </option>
+            <option name="Are the heating, ventilation and air conditioning systems in good working order?" number="4">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No (explain)</value>
+            </option>
+            <option name="HVAC Date" number="5">
+                <value number="1" type="3">Date of last HVAC servicing/inspection</value>
+            </option>
+            <option name="Hazards Present" number="6">
+                <value number="1" type="5" options="Yes;No">Wood-burning stove or central gas fireplace not professionally installed?</value>
+                <value number="2" type="5" options="Yes;No">Space heater used as primary heat source?</value>
+                <value number="3" type="5" options="Yes;No">Is the source portable?</value>
+                <value number="4" type="5" options="Yes;No">Does the air handler/condensate line or drain pan show any signs of blockage or leakage, including water damage to the surrounding area?</value>
+            </option>
+            <option name="Supplemental Information" number="7">
+                <value number="1" type="3" >Age of system</value>
+                <value number="2" type="3">Year last updated</value>
+            </option>
+            <option name="(Please attach photo(s) of HVAC equipment, including dated manufacturer’s plate)" number="8">
+            </option>
+        </subsection>
+    </section>
+    <section index="0" name="Plumbing Inspection" number="3">
+        <subsection index="0" name="Plumbing System" number="1">
+            <option name="Is there a temperature pressure relief valve on the water heater?" number="1">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Is there any indication of an active leak?" number="2">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Is there any indication of a prior leak?" number="3">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="" number="4">
+                <value number="1" type="3">Water heater location</value>
+            </option>
+            <option name="General condition of the following plumbing fixtures and connections to appliances" number="5">
+            </option>
+            <option name="Dishwasher" number="6">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0" >N/A</value>
+            </option>
+            <option name="Refrigerator" number="7">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Washing machine" number="8">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Water heater" number="9">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Showers/Tubs" number="10">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+
+            <option name="Toilets" number="11">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Sinks" number="12">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Sump pump" number="13">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="Main shut off valve" number="14">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="All other visible" number="15">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory</value>
+                <value number="3" type="0">N/A</value>
+            </option>
+            <option name="If unsatisfactory, please provide comments/details (leaks, wet/soft spots, mold, corrosion, grout/caulk, etc.)" number="16">
+            </option>
+            <option name="Supplemental Information" number="17"></option>
+            <option name="Age of Piping System" number="18">
+                <value number="1" type="3">Original to home</value>
+                <value number="2" type="3">Completely re-piped</value>
+                <value number="3" type="3">Partially re-piped</value>
+            </option>
+            <option name="(Provide year and extent of renovation in the comments below)" number="19">
+            </option>
+            <option name="Type of Pipes(Check all that apply)" number="20">
+                <value number="1" type="0">Copper</value>
+                <value number="2" type="0">PVC/CPVC</value>
+                <value number="3" type="0">Galvanized</value>
+                <value number="4" type="0">PEX</value>
+                <value number="5" type="0">Polybutylene</value>
+                <value number="6" type="0">Other (specify)</value>
+            </option>
+        </subsection>
+    </section>
+    <section index="0" name="Roof Inspection" number="4">
+        <subsection index="0" name="Predominant Roof" number="1">
+            <option name="" number="1">
+                <value number="1" type="3">Covering material</value>
+            </option>
+            <option name="" number="2">
+                <value number="1" type="3">Roof age (years)</value>
+            </option>
+            <option name="" number="3">
+                <value number="1" type="3">Remaining useful life (years)</value>
+            </option>
+            <option name="" number="4">
+                <value number="1" type="3">Date of last roofing permit</value>
+            </option>
+            <option name="" number="5">
+                <value number="1" type="3">Date of last update</value>
+            </option>
+            <option name="If updated (check one)" number="6">
+                <value number="1" type="0">Full replacement</value>
+                <value number="2" type="0">Partial replacement</value>
+                <value number="3" type="3">% of replacement</value>
+            </option>
+            <option name="Overall condition" number="7">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory (explain below)</value>
+            </option>
+            <option name="Any visible signs of damage / deterioration? (check all that apply and explain below)" number="8">
+                <value number="1" type="0">Cracking</value>
+                <value number="2" type="0">Cupping/curling</value>
+                <value number="3" type="0">Excessive granule loss</value>
+                <value number="4" type="0">Exposed asphalt</value>
+                <value number="5" type="0">Exposed felt</value>
+                <value number="6" type="0">Missing/loose/cracked tabs or tiles</value>
+                <value number="7" type="0">Soft spots in decking</value>
+                <value number="8" type="0">Visible hail damage</value>
+            </option>
+            <option name="Any visible signs of leaks?" number="9">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Attic/underside of decking" number="10">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Interior ceilings" number="11">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+        </subsection>
+        <subsection index="0" name="Secondary Roof" number="2">
+            <option name="" number="1">
+                <value number="1" type="3">Covering material</value>
+            </option>
+            <option name="" number="2">
+                <value number="1" type="3">Roof age (years)</value>
+            </option>
+            <option name="" number="3">
+                <value number="1" type="3">Remaining useful life (years)</value>
+            </option>
+            <option name="" number="4">
+                <value number="1" type="3">Date of last roofing permit</value>
+            </option>
+            <option name="" number="5">
+                <value number="1" type="3">Date of last update</value>
+            </option>
+            <option name="If updated (check one)" number="6">
+                <value number="1" type="0">Full replacement</value>
+                <value number="2" type="0">Partial replacement</value>
+                <value number="3" type="3">% of replacement</value>
+            </option>
+            <option name="Overall condition" number="7">
+                <value number="1" type="0">Satisfactory</value>
+                <value number="2" type="0">Unsatisfactory (explain below)</value>
+            </option>
+            <option name="Any visible signs of damage / deterioration? (check all that apply and explain below)" number="8">
+                <value number="1" type="0">Cracking</value>
+                <value number="2" type="0">Cupping/curling</value>
+                <value number="3" type="0">Excessive granule loss</value>
+                <value number="4" type="0">Exposed asphalt</value>
+                <value number="5" type="0">Exposed felt</value>
+                <value number="6" type="0">Missing/loose/cracked tabs or tiles</value>
+                <value number="7" type="0">Soft spots in decking</value>
+                <value number="8" type="0">Visible hail damage</value>
+            </option>
+            <option name="Any visible signs of leaks?" number="9">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Attic/underside of decking" number="10">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+            <option name="Interior ceilings" number="11">
+                <value number="1" type="0">Yes</value>
+                <value number="2" type="0">No</value>
+            </option>
+        </subsection>
+    </section>
+    <section name="Additional Comments/Observations" number="5" index="0">
+        <subsection name="Additional Comments" number="1" index="0">
+            <option name=" " number="6">
+                <value number="1" button="1005" type="2"/>
+            </option>
+        </subsection>
+    </section>
+</report>

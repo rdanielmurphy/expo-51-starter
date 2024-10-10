@@ -1,0 +1,102 @@
+UserDefinedField { "displayOrder": 1, "fieldType": "AddressType", "fieldValue": 1, "fieldLabel": "Home", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "AddressType", "fieldValue": 2, "fieldLabel": "Business", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "AddressType", "fieldValue": 3, "fieldLabel": "Work", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PhoneType", "fieldValue": 1, "fieldLabel": "Home", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PhoneType", "fieldValue": 2, "fieldLabel": "Cellular", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PhoneType", "fieldValue": 3, "fieldLabel": "Work", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "EmailType", "fieldValue": 1, "fieldLabel": "Personal", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "EmailType", "fieldValue": 2, "fieldLabel": "Work", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "EmailType", "fieldValue": 3, "fieldLabel": "Personal 2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "CompanyType", "fieldValue": 1, "fieldLabel": "Company Creation Date", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "CompanyType", "fieldValue": 2, "fieldLabel": "Business Notes", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "CompanyType", "fieldValue": 3, "fieldLabel": "Number of Employees", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "CompanyType", "fieldValue": 4, "fieldLabel": "Corporate Parent", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "CompanyType", "fieldValue": 5, "fieldLabel": "Misc.", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "ContactType", "fieldValue": 1, "fieldLabel": "Birthdate", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "ContactType", "fieldValue": 2, "fieldLabel": "Payment Type", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "ContactType", "fieldValue": 3, "fieldLabel": "Title", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "ContactType", "fieldValue": 4, "fieldLabel": "Something Interesting", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "ContactType", "fieldValue": 5, "fieldLabel": "Misc.", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyType", "fieldValue": 1, "fieldLabel": "Single Family", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyType", "fieldValue": 2, "fieldLabel": "Multi - Family", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyType", "fieldValue": 3, "fieldLabel": "Apartment", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyType", "fieldValue": 4, "fieldLabel": "Condominium", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "PropertyType", "fieldValue": 5, "fieldLabel": "Townhouse", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyStyle", "fieldValue": 6, "fieldLabel": "1 Story", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyStyle", "fieldValue": 7, "fieldLabel": "1 1/2 Story", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyStyle", "fieldValue": 8, "fieldLabel": "2 Story", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyStyle", "fieldValue": 9, "fieldLabel": "High Rise", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyBasement", "fieldValue": 1, "fieldLabel": "Full", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyBasement", "fieldValue": 2, "fieldLabel": "Partial", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyBasement", "fieldValue": 3, "fieldLabel": "None", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyCrawl", "fieldValue": 1, "fieldLabel": "Full", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyCrawl", "fieldValue": 2, "fieldLabel": "Partial", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyCrawl", "fieldValue": 3, "fieldLabel": "None", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertySlab", "fieldValue": 1, "fieldLabel": "Full", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertySlab", "fieldValue": 2, "fieldLabel": "Partial", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertySlab", "fieldValue": 3, "fieldLabel": "None", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyFurnaces", "fieldValue": 1, "fieldLabel": "1", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyFurnaces", "fieldValue": 2, "fieldLabel": "2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyFurnaces", "fieldValue": 3, "fieldLabel": "3", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyFurnaces", "fieldValue": 4, "fieldLabel": "4", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyFurnaceFuel", "fieldValue": 1, "fieldLabel": "Electric", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyFurnaceFuel", "fieldValue": 2, "fieldLabel": "Gas", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyFurnaceFuel", "fieldValue": 3, "fieldLabel": "Oil", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyWaterHeater", "fieldValue": 1, "fieldLabel": "1", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyWaterHeater", "fieldValue": 2, "fieldLabel": "2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyWaterHeater", "fieldValue": 3, "fieldLabel": "3", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyWaterHeater", "fieldValue": 4, "fieldLabel": "4", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyWaterHeaterFuel", "fieldValue": 1, "fieldLabel": "Electric", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyWaterHeaterFuel", "fieldValue": 2, "fieldLabel": "Gas", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyWaterHeaterFuel", "fieldValue": 3, "fieldLabel": "Oil", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyGarages", "fieldValue": 1, "fieldLabel": "1 Car", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyGarages", "fieldValue": 2, "fieldLabel": "2 Car", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyGarages", "fieldValue": 3, "fieldLabel": "3 Car", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyGarages", "fieldValue": 4, "fieldLabel": "4 Car", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "PropertyGarages", "fieldValue": 5, "fieldLabel": "5 Car", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyGarageType", "fieldValue": 1, "fieldLabel": "Attached", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyGarageType", "fieldValue": 2, "fieldLabel": "Detached", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyGarageType", "fieldValue": 3, "fieldLabel": "Carport", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyGarageType", "fieldValue": 4, "fieldLabel": "None", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyAC", "fieldValue": 0, "fieldLabel": "0", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyAC", "fieldValue": 1, "fieldLabel": "1", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyAC", "fieldValue": 2, "fieldLabel": "2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyAC", "fieldValue": 3, "fieldLabel": "3", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "PropertyAC", "fieldValue": 4, "fieldLabel": "4", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyBathrooms", "fieldValue": 0, "fieldLabel": "0", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyBathrooms", "fieldValue": 1, "fieldLabel": "1", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyBathrooms", "fieldValue": 2, "fieldLabel": "2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyBathrooms", "fieldValue": 3, "fieldLabel": "3", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "PropertyBathrooms", "fieldValue": 4, "fieldLabel": "4", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 6, "fieldType": "PropertyBathrooms", "fieldValue": 5, "fieldLabel": "5", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 7, "fieldType": "PropertyBathrooms", "fieldValue": 6, "fieldLabel": "6", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 8, "fieldType": "PropertyBathrooms", "fieldValue": 7, "fieldLabel": "7", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 9, "fieldType": "PropertyBathrooms", "fieldValue": 8, "fieldLabel": "8", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyBedrooms", "fieldValue": 0, "fieldLabel": "0", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyBedrooms", "fieldValue": 1, "fieldLabel": "1", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyBedrooms", "fieldValue": 2, "fieldLabel": "2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyBedrooms", "fieldValue": 3, "fieldLabel": "3", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "PropertyBedrooms", "fieldValue": 4, "fieldLabel": "4", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 6, "fieldType": "PropertyBedrooms", "fieldValue": 5, "fieldLabel": "5", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 7, "fieldType": "PropertyBedrooms", "fieldValue": 6, "fieldLabel": "6", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 8, "fieldType": "PropertyBedrooms", "fieldValue": 7, "fieldLabel": "7", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 9, "fieldType": "PropertyBedrooms", "fieldValue": 8, "fieldLabel": "8", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 10, "fieldType": "PropertyBedrooms", "fieldValue": 9, "fieldLabel": "9", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 11, "fieldType": "PropertyBedrooms", "fieldValue": 10, "fieldLabel": "10", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "PropertyFireplaces", "fieldValue": 1, "fieldLabel": "1", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "PropertyFireplaces", "fieldValue": 2, "fieldLabel": "2", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "PropertyFireplaces", "fieldValue": 3, "fieldLabel": "3", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "PropertyFireplaces", "fieldValue": 4, "fieldLabel": "4", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "ContactTag", "fieldValue": 1, "fieldLabel": "Realtor", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "ContactTag", "fieldValue": 2, "fieldLabel": "Client", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "ContactTag", "fieldValue": 3, "fieldLabel": "Inspector", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "ContactTag", "fieldValue": 4, "fieldLabel": "Mortgage Broker", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "ContactTag", "fieldValue": 5, "fieldLabel": "Real Estate Attorney", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 6, "fieldType": "ContactTag", "fieldValue": 6, "fieldLabel": "Friend", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 7, "fieldType": "ContactTag", "fieldValue": 7, "fieldLabel": "Insurance Agent", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 8, "fieldType": "ContactTag", "fieldValue": 8, "fieldLabel": "Bank", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 1, "fieldType": "License Type", "fieldValue": 1, "fieldLabel": "Home Inspector", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 2, "fieldType": "License Type", "fieldValue": 2, "fieldLabel": "Build Code Inspector", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 3, "fieldType": "License Type", "fieldValue": 3, "fieldLabel": "General Building or Residential Contractor", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 4, "fieldType": "License Type", "fieldValue": 4, "fieldLabel": "Professional Engineer", "visible": 1, lastModifiedDate: 0 }
+UserDefinedField { "displayOrder": 5, "fieldType": "License Type", "fieldValue": 5, "fieldLabel": "Professional Architect", "visible": 1, lastModifiedDate: 0 }

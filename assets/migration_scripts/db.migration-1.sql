@@ -1,0 +1,1 @@
+ALTER TABLE inspection ADD inspection_date INTEGER;

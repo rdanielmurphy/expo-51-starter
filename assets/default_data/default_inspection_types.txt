@@ -1,0 +1,22 @@
+InspectionType { "name": "Inspection(Checklist)" }
+InspectionType { "name": "Inspection(Narrative)" }
+InspectionType { "name": "Wood Destroying Organisms" }
+InspectionType { "name": "Radon Test Agreement" }
+InspectionType { "name": "Pool Inspection" }
+InspectionType { "name": "Home Inspection Report" }
+InspectionType { "name": "Wind Mitigation Agreement" }
+InspectionType { "name": "4 Point" }
+InspectionType { "name": "Energy Audit" }
+InspectionType { "name": "Client Thank You Letter" }
+InspectionType { "name": "Realtor Thank You Letter" }
+InspectionType { "name": "Seller Realtor Thank You Letter" }
+InspectionType { "name": "Wood Destroying Organisms - Texas" }
+InspectionType { "name": "Inspection Order Form" }
+InspectionType { "name": "Inspection Agreement" }
+InspectionType { "name": "Inspection Invoice" }
+InspectionType { "name": "Radon Inspection" }
+InspectionType { "name": "Inspection Receipt" }
+InspectionType { "name": "ReportPlus" }
+InspectionType { "name": "Wind Mitigation Report" }
+InspectionType { "name": "BNW" }
+InspectionType { "name": "Roof Report" }

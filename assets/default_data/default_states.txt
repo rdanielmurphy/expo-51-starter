@@ -1,0 +1,66 @@
+State { abbr: "AL", name: "Alabama", country: "USA" }
+State { abbr: "AK", name: "Alaska", country: "USA" }
+State { abbr: "AZ", name: "Arizona", country: "USA" }
+State { abbr: "AR", name: "Arkansas", country: "USA" }
+State { abbr: "CA", name: "California", country: "USA" }
+State { abbr: "CO", name: "Colorado", country: "USA" }
+State { abbr: "CT", name: "Connecticut", country: "USA" }
+State { abbr: "DE", name: "Delaware", country: "USA" }
+State { abbr: "DC", name: "District Of Columbia", country: "USA" }
+State { abbr: "FL", name: "Florida", country: "USA" }
+State { abbr: "GA", name: "Georgia", country: "USA" }
+State { abbr: "HI", name: "Hawaii", country: "USA" }
+State { abbr: "ID", name: "Idaho", country: "USA" }
+State { abbr: "IL", name: "Illinois", country: "USA" }
+State { abbr: "IN", name: "Indiana", country: "USA" }
+State { abbr: "IA", name: "Iowa", country: "USA" }
+State { abbr: "KS", name: "Kansas", country: "USA" }
+State { abbr: "KY", name: "Kentucky", country: "USA" }
+State { abbr: "LA", name: "Louisiana", country: "USA" }
+State { abbr: "ME", name: "Maine", country: "USA" }
+State { abbr: "MD", name: "Maryland", country: "USA" }
+State { abbr: "MA", name: "Massachusetts", country: "USA" }
+State { abbr: "MI", name: "Michigan", country: "USA" }
+State { abbr: "MN", name: "Minnesota", country: "USA" }
+State { abbr: "MS", name: "Mississippi", country: "USA" }
+State { abbr: "MO", name: "Missouri", country: "USA" }
+State { abbr: "MT", name: "Montana", country: "USA" }
+State { abbr: "NE", name: "Nebraska", country: "USA" }
+State { abbr: "NV", name: "Nevada", country: "USA" }
+State { abbr: "NH", name: "New Hampshire", country: "USA" }
+State { abbr: "NJ", name: "New Jersey", country: "USA" }
+State { abbr: "NM", name: "New Mexico", country: "USA" }
+State { abbr: "NY", name: "New York", country: "USA" }
+State { abbr: "NC", name: "North Carolina", country: "USA" }
+State { abbr: "ND", name: "North Dakota", country: "USA" }
+State { abbr: "OH", name: "Ohio", country: "USA" }
+State { abbr: "OK", name: "Oklahoma", country: "USA" }
+State { abbr: "OR", name: "Oregon", country: "USA" }
+State { abbr: "PA", name: "Pennsylvania", country: "USA" }
+State { abbr: "RI", name: "Rhode Island", country: "USA" }
+State { abbr: "SC", name: "South Carolina", country: "USA" }
+State { abbr: "SD", name: "South Dakota", country: "USA" }
+State { abbr: "TN", name: "Tennessee", country: "USA" }
+State { abbr: "TX", name: "Texas", country: "USA" }
+State { abbr: "UT", name: "Utah", country: "USA" }
+State { abbr: "VT", name: "Vermont", country: "USA" }
+State { abbr: "VA", name: "Virginia", country: "USA" }
+State { abbr: "WA", name: "Washington", country: "USA" }
+State { abbr: "VI", name: "Virgin Islands", country: "USA" }
+State { abbr: "WV", name: "West Virginia", country: "USA" }
+State { abbr: "WI", name: "Wisconsin", country: "USA" }
+State { abbr: "WY", name: "Wyoming", country: "USA" }
+
+State { abbr: "AB", name: "Alberta", country: "CAN" }
+State { abbr: "BC", name: "British Columbia", country: "CAN" }
+State { abbr: "MB", name: "Manitoba", country: "CAN" }
+State { abbr: "NB", name: "New Brunswick", country: "CAN" }
+State { abbr: "NL", name: "Newfoundland and Labrador", country: "CAN" }
+State { abbr: "NT", name: "Northwest Territories", country: "CAN" }
+State { abbr: "NS", name: "Nova Scotia", country: "CAN" }
+State { abbr: "NU", name: "Nunavut", country: "CAN" }
+State { abbr: "ON", name: "Ontario", country: "CAN" }
+State { abbr: "PE", name: "Prince Edward Island", country: "CAN" }
+State { abbr: "QC", name: "Quebec", country: "CAN" }
+State { abbr: "SK", name: "Saskatchewan", country: "CAN" }
+State { abbr: "YT", name: "Yukon", country: "CAN" }

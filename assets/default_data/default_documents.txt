@@ -1,0 +1,15 @@
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Wind Mitigation", "service_name": "Wind Mitigation" }
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Citizen 4 Point", "service_name": "4 Point" }
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Roof Report", "service_name": "4 Point" }
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Radon Test Agreement", "service_name": "Radon Test" }
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Radon Inspection", "service_name": "Radon Test" }
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Pool Inspection", "service_name": "Pool" }
+Document { "defaultType": "", "isDefault": false, "reportDefinition_name": "Wood Destroying Organisms", "service_name": "WDO" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Home Inspection Report (Color)", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Home Inspection Report (B&W)", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Home Inspection Report (Narrative)", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Client Thank You Letter", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Realtor Thank You Letter", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Seller Realtor Thank You Letter", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "Inspection Order Form", "service_name": "" }
+Document { "defaultType": "inspection", "isDefault": true, "reportDefinition_name": "ReportPlus", "service_name": "" }
